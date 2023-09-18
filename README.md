@@ -1,6 +1,6 @@
 GDWbaseRepo
 Tutorial 1
 
-Tutoiral 2
+Tutorial 2
 https://youtu.be/-2mvkaP0zsg
 
