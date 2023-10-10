@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/ZZZZZZZZProjects/FPS_gdw/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/ZZZZZZZZProjects/FPS_gdw/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/ZZZZZZZZProjects/FPS_gdw/Content/Level1GDW/Level1GDWMap.umap",
+				"D:/ZZZZZZZZProjects/FPS_gdw/Content/Level1GDW/Level1Assets/Triggers/BP_Respawn.uasset",
+				"D:/ZZZZZZZZProjects/FPS_gdw/Content/Level1GDW/Level1Assets/Triggers/BP_Laser.uasset",
+				"D:/ZZZZZZZZProjects/FPS_gdw/Content/Level1GDW/Level1Assets/LaserWall/Laser_Cylinder.uasset",
+				"D:/ZZZZZZZZProjects/FPS_gdw/Content/Level1GDW/Level1Assets/LaserWall/Laser_Cube_002.uasset",
+				"D:/ZZZZZZZZProjects/FPS_gdw/Content/Level1GDW/Level1Assets/LaserWall/Laser_Cube_001.uasset",
+				"D:/ZZZZZZZZProjects/FPS_gdw/Content/Level1GDW/Level1Assets/LaserWall/BP_Laser.umap",
+				"D:/ZZZZZZZZProjects/FPS_gdw/Content/__ExternalActors__/Level1GDW/Level1Assets/LaserWall/BP_Laser/D/Y6/B1CX0W8J729O7R824618I1.uasset",
+				"D:/ZZZZZZZZProjects/FPS_gdw/Content/__ExternalActors__/Level1GDW/Level1Assets/LaserWall/BP_Laser/E/Y1/HWLEYSZC9K5M937DRODPKX.uasset",
+				"D:/ZZZZZZZZProjects/FPS_gdw/Content/__ExternalActors__/Level1GDW/Level1Assets/LaserWall/BP_Laser/2/G7/5MXSAGTW2OE6UR6LJF9O7F.uasset",
+				"D:/ZZZZZZZZProjects/FPS_gdw/Content/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.uasset",
+				"D:/ZZZZZZZZProjects/FPS_gdw/Content/Level1GDW/Level1Assets/LaserWall/Material_001.uasset",
+				"D:/ZZZZZZZZProjects/FPS_gdw/Content/Level1GDW/Level1Assets/LaserWall/Material_002.uasset",
+				"D:/ZZZZZZZZProjects/FPS_gdw/Content/Level1GDW/Level1Assets/Guns/Pistol/BP_BulletPistol.uasset",
+				"D:/ZZZZZZZZProjects/FPS_gdw/Content/Level1GDW/Level1Assets/Enemy/BP_Enemy.uasset",
+				"D:/ZZZZZZZZProjects/FPS_gdw/Content/Level1GDW/Level1Assets/Camera/BP_Camera.uasset",
+				"D:/ZZZZZZZZProjects/FPS_gdw/Content/Level1GDW/Level1Assets/Triggers/TriggerLaser.uasset",
+				"D:/ZZZZZZZZProjects/FPS_gdw/Content/Level1GDW/Level1Assets/Guns/Pistol/BP_Pistol.uasset"
+			]
+		}
+	]
+}
