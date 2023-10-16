@@ -1599,3 +1599,19 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2023.10.16-22.14.31:603][573]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 1.78 sec)
 [2023.10.16-22.14.31:605][573]AssetCheck: New page: Asset Save: Level1GDWMap
 [2023.10.16-22.14.31:605][573]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level1GDWMap.Level1GDWMap
+[2023.10.16-22.15.06:704][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.16-22.15.06:759][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.10.16-22.15.06:781][334]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level1GDWMap
+[2023.10.16-22.15.06:782][334]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level1GDWMapFC36B398421DB89D928517B60B71CEF2.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level1GDWMap.umap'
+[2023.10.16-22.15.06:787][334]LogFileHelpers: Saving map 'Level1GDWMap' took 0.054
+[2023.10.16-22.15.06:792][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 1.87 sec)
+[2023.10.16-22.15.06:793][334]AssetCheck: New page: Asset Save: Level1GDWMap
+[2023.10.16-22.15.06:793][334]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level1GDWMap.Level1GDWMap
+[2023.10.16-22.15.47:246][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.16-22.15.47:290][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.10.16-22.15.47:312][740]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level1GDWMap
+[2023.10.16-22.15.47:313][740]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level1GDWMap51A25285436D8B9E71C0B5B1784C0C51.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level1GDWMap.umap'
+[2023.10.16-22.15.47:318][740]LogFileHelpers: Saving map 'Level1GDWMap' took 0.054
+[2023.10.16-22.15.47:323][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 1.94 sec)
+[2023.10.16-22.15.47:324][740]AssetCheck: New page: Asset Save: Level1GDWMap
+[2023.10.16-22.15.47:324][740]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level1GDWMap.Level1GDWMap
