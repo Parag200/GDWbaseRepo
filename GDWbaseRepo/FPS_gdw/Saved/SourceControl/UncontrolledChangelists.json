@@ -29,11 +29,13 @@
 				"D:/GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap",
 				"D:/GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Level1Assets/Guns/TeleportGun/BP_TeleportDart.uasset",
 				"D:/GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"D:/GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Level1Assets/Guns/Pistol/BP_PISTOL.uasset",
 				"D:/GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Level1Assets/Guns/Pistol/BP_BulletPistol.uasset",
 				"D:/ZZFOrtnigte/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
 				"D:/GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Level1Assets/Guns/TeleportGun/M_TeleportDart.uasset",
 				"D:/GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Level1Assets/Enemy/BP_Enemy.uasset",
+				"D:/GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Level1Assets/Triggers/BP_Respawn.uasset",
+				"D:/GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Level1Assets/Triggers/BP_Laser.uasset",
+				"D:/GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Level1Assets/Guns/Pistol/BP_PISTOL.uasset",
 				"D:/ZZZZZZZZProjects/FPS_gdw/Content/Level1GDW/Level1Assets/Triggers/TriggerLaser.uasset",
 				"D:/ZZZZZZZZProjects/FPS_gdw/Content/Level1GDW/Level1Assets/Guns/Pistol/BP_Pistol.uasset"
 			]
