@@ -2533,3 +2533,71 @@ Make sure 'BP_Guard_C' has been compiled for  Set RespawnLocation
 [2023.10.21-18.48.42:191][321]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
 [2023.10.21-18.48.42:638][321]LogExit: Editor shut down
 [2023.10.21-18.48.42:660][321]LogExit: Transaction tracking system shut down
+[2023.10.21-18.48.48:828][321]LogExit: Object subsystem successfully closed.
+[2023.10.21-18.48.48:836][321]LogShaderCompilers: Display: ================================================
+[2023.10.21-18.48.48:836][321]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.21-18.48.48:836][321]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.10.21-18.48.48:836][321]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.10.21-18.48.48:836][321]LogShaderCompilers: Display: RAM used: 240.00 B of 819.20 MiB budget. Usage: 0.00%
+[2023.10.21-18.48.48:836][321]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.21-18.48.48:836][321]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.21-18.48.48:836][321]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2023.10.21-18.48.48:836][321]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.21-18.48.48:836][321]LogShaderCompilers: Display: ================================================
+[2023.10.21-18.48.48:941][321]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.10.21-18.48.49:622][321]LogVirtualization: UE::Virtualization was shutdown
+[2023.10.21-18.48.52:310][321]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1054)
+[2023.10.21-18.48.52:322][321]LogModuleManager: Shutting down and abandoning module Voice (1052)
+[2023.10.21-18.48.52:338][321]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1050)
+[2023.10.21-18.48.52:353][321]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1048)
+[2023.10.21-18.48.52:353][321]LogModuleManager: Shutting down and abandoning module SceneOutliner (1046)
+[2023.10.21-18.48.52:364][321]LogModuleManager: Shutting down and abandoning module AddContentDialog (1044)
+[2023.10.21-18.48.52:374][321]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1043)
+[2023.10.21-18.48.52:374][321]LogModuleManager: Shutting down and abandoning module StatusBar (1040)
+[2023.10.21-18.48.52:374][321]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1038)
+[2023.10.21-18.48.52:374][321]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1036)
+[2023.10.21-18.48.52:394][321]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1034)
+[2023.10.21-18.48.52:394][321]LogModuleManager: Shutting down and abandoning module StatsViewer (1032)
+[2023.10.21-18.48.52:408][321]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1030)
+[2023.10.21-18.48.52:408][321]LogModuleManager: Shutting down and abandoning module AutomationWorker (1028)
+[2023.10.21-18.48.52:408][321]LogModuleManager: Shutting down and abandoning module SmartSnapping (1026)
+[2023.10.21-18.48.52:408][321]LogModuleManager: Shutting down and abandoning module TextureAlignMode (1024)
+[2023.10.21-18.48.52:425][321]LogModuleManager: Shutting down and abandoning module BspMode (1022)
+[2023.10.21-18.48.52:436][321]LogModuleManager: Shutting down and abandoning module GeometryMode (1020)
+[2023.10.21-18.48.52:474][321]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (1018)
+[2023.10.21-18.48.52:482][321]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1016)
+[2023.10.21-18.48.52:482][321]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1014)
+[2023.10.21-18.48.52:482][321]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1012)
+[2023.10.21-18.48.52:494][321]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1010)
+[2023.10.21-18.48.52:494][321]LogModuleManager: Shutting down and abandoning module WebMMedia (1008)
+[2023.10.21-18.48.52:500][321]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (1006)
+[2023.10.21-18.48.52:521][321]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (1004)
+[2023.10.21-18.48.52:569][321]LogModuleManager: Shutting down and abandoning module SequenceRecorder (1003)
+[2023.10.21-18.48.52:587][321]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (1000)
+[2023.10.21-18.48.52:600][321]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (998)
+[2023.10.21-18.48.52:600][321]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (996)
+[2023.10.21-18.48.52:606][321]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (994)
+[2023.10.21-18.48.52:606][321]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (992)
+[2023.10.21-18.48.52:606][321]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (990)
+[2023.10.21-18.48.52:606][321]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (988)
+[2023.10.21-18.48.52:606][321]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (986)
+[2023.10.21-18.48.52:617][321]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (984)
+[2023.10.21-18.48.52:640][321]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (982)
+[2023.10.21-18.48.52:650][321]LogModuleManager: Shutting down and abandoning module WaveTableEditor (980)
+[2023.10.21-18.48.52:673][321]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (978)
+[2023.10.21-18.48.52:673][321]LogModuleManager: Shutting down and abandoning module RigVMEditor (976)
+[2023.10.21-18.48.52:745][321]LogModuleManager: Shutting down and abandoning module GooglePADEditor (974)
+[2023.10.21-18.48.52:745][321]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (972)
+[2023.10.21-18.48.52:745][321]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (970)
+[2023.10.21-18.48.52:745][321]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (968)
+[2023.10.21-18.48.52:755][321]LogModuleManager: Shutting down and abandoning module PlanarCut (966)
+[2023.10.21-18.48.52:770][321]LogModuleManager: Shutting down and abandoning module FractureEngine (964)
+[2023.10.21-18.48.52:786][321]LogModuleManager: Shutting down and abandoning module CharacterAI (962)
+[2023.10.21-18.48.52:786][321]LogModuleManager: Shutting down and abandoning module IKRigEditor (960)
+[2023.10.21-18.48.52:810][321]LogModuleManager: Shutting down and abandoning module ControlRigEditor (958)
+[2023.10.21-18.48.52:843][321]LogModuleManager: Shutting down and abandoning module SessionServices (956)
+[2023.10.21-18.48.52:844][321]LogModuleManager: Shutting down and abandoning module MeshPaint (954)
+[2023.10.21-18.48.52:857][321]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (952)
+[2023.10.21-18.48.52:877][321]LogModuleManager: Shutting down and abandoning module PlacementMode (951)
+[2023.10.21-18.48.52:877][321]LogModuleManager: Shutting down and abandoning module FoliageEdit (948)
+[2023.10.21-18.48.52:895][321]LogModuleManager: Shutting down and abandoning module LandscapeEditor (946)
