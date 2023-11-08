@@ -13697,3 +13697,1750 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2023.11.08-21.33.36:154][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 35.7 sec)
 [2023.11.08-21.33.36:155][177]AssetCheck: New page: Asset Save: Settings
 [2023.11.08-21.33.36:155][177]LogContentValidation: Display: Validating /Script/Engine.World /Game/LEVELS/Settings.Settings
+[2023.11.08-21.54.40:697][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.11.08-21.54.40:736][234]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-21.54.40:738][234]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-21.54.40:738][234]Cmd: MAP LOAD FILE="../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.08-21.54.40:738][234]LightingResults: New page: Lighting Build
+[2023.11.08-21.54.40:738][234]LoadErrors: New page: Loading map: Level2GDWMap.umap
+[2023.11.08-21.54.40:756][234]LogWorld: UWorld::CleanupWorld for Settings, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-21.54.40:756][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-21.54.40:756][234]MapCheck: New page: Map Check
+[2023.11.08-21.54.40:756][234]LightingResults: New page: Lighting Build
+[2023.11.08-21.54.40:771][234]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.08-21.54.40:773][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.08-21.54.40:776][234]LogWorld: UWorld::CleanupWorld for Level2GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-21.54.40:776][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-21.54.40:789][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.08-21.54.40:803][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.11.08-21.54.40:808][234]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2GDWMap'.
+[2023.11.08-21.54.40:808][234]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-21.54.40:808][234]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-21.54.40:809][234]LogAIModule: Creating AISystem for world Level2GDWMap
+[2023.11.08-21.54.40:822][234]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.08-21.54.40:836][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.08-21.54.40:842][234]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.08-21.54.40:842][234]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.06ms to complete.
+[2023.11.08-21.55.46:951][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.08-21.55.46:990][104]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-21.55.47:001][104]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level1GDW/Levels/Level1GDWMap.Level1GDWMap
+[2023.11.08-21.55.47:001][104]Cmd: MAP LOAD FILE="../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level1GDWMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.08-21.55.47:001][104]LightingResults: New page: Lighting Build
+[2023.11.08-21.55.47:001][104]LoadErrors: New page: Loading map: Level1GDWMap.umap
+[2023.11.08-21.55.47:016][104]LogWorld: UWorld::CleanupWorld for Level2GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-21.55.47:016][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-21.55.47:017][104]MapCheck: New page: Map Check
+[2023.11.08-21.55.47:017][104]LightingResults: New page: Lighting Build
+[2023.11.08-21.55.47:030][104]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.08-21.55.47:033][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.11.08-21.55.47:036][104]LogWorld: UWorld::CleanupWorld for Level1GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-21.55.47:036][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-21.55.47:052][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.11.08-21.55.47:067][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.11.08-21.55.47:079][104]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1GDWMap'.
+[2023.11.08-21.55.47:079][104]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-21.55.47:079][104]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-21.55.47:079][104]LogAIModule: Creating AISystem for world Level1GDWMap
+[2023.11.08-21.55.47:105][104]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.08-21.55.47:123][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.11.08-21.55.47:129][104]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.08-21.55.47:129][104]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2023.11.08-21.55.52:919][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.11.08-21.55.52:968][678]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-21.55.52:969][678]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-21.55.52:969][678]Cmd: MAP LOAD FILE="../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.08-21.55.52:969][678]LightingResults: New page: Lighting Build
+[2023.11.08-21.55.52:969][678]LoadErrors: New page: Loading map: Level2GDWMap.umap
+[2023.11.08-21.55.52:986][678]LogWorld: UWorld::CleanupWorld for Level1GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-21.55.52:986][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-21.55.52:986][678]MapCheck: New page: Map Check
+[2023.11.08-21.55.52:986][678]LightingResults: New page: Lighting Build
+[2023.11.08-21.55.52:998][678]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.08-21.55.53:002][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.11.08-21.55.53:005][678]LogWorld: UWorld::CleanupWorld for Level2GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-21.55.53:005][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-21.55.53:017][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.11.08-21.55.53:030][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.11.08-21.55.53:035][678]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2GDWMap'.
+[2023.11.08-21.55.53:035][678]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-21.55.53:035][678]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-21.55.53:035][678]LogAIModule: Creating AISystem for world Level2GDWMap
+[2023.11.08-21.55.53:049][678]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.08-21.55.53:064][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.08-21.55.53:070][678]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.08-21.55.53:070][678]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.059ms to complete.
+[2023.11.08-21.55.57:818][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-21.55.57:886][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.11.08-21.55.57:897][128]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-21.55.57:898][128]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap57A5841F4CA96DB1363ABDBA11EE39B1.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-21.55.57:924][128]LogFileHelpers: Saving map 'Level2GDWMap' took 0.070
+[2023.11.08-21.55.57:930][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 35.8 sec)
+[2023.11.08-21.55.57:932][128]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-21.55.57:932][128]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-21.56.08:476][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-21.56.08:536][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.11.08-21.56.08:547][155]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-21.56.08:548][155]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapFAA69CFC47E99ED0277A148005E67CA9.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-21.56.08:553][155]LogFileHelpers: Saving map 'Level2GDWMap' took 0.046
+[2023.11.08-21.56.08:559][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 35.9 sec)
+[2023.11.08-21.56.08:560][155]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-21.56.08:560][155]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-21.57.03:826][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-21.57.03:888][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.11.08-21.57.03:897][465]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-21.57.03:898][465]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapAE299C334C58EA0A9DA1EC982BA422F4.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-21.57.03:903][465]LogFileHelpers: Saving map 'Level2GDWMap' took 0.048
+[2023.11.08-21.57.03:910][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 36.0 sec)
+[2023.11.08-21.57.03:911][465]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-21.57.03:911][465]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-21.57.04:482][529]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.08-21.57.04:489][529]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.08-21.57.04:489][529]LogPlayLevel: [PlayLevel] Compiling LevelSelectW before play...
+[2023.11.08-21.57.04:508][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.11.08-21.57.04:510][529]LogPlayLevel: PlayLevel: Blueprint regeneration took 21 ms (1 blueprints)
+[2023.11.08-21.57.04:510][529]PIE: New page: PIE session: Level2GDWMap (Nov. 8, 2023, 11:57:04 a.m.)
+[2023.11.08-21.57.04:510][529]LogPlayLevel: Creating play world package: /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-21.57.04:512][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001648s)
+[2023.11.08-21.57.04:512][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap to /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap (0.001678s)
+[2023.11.08-21.57.04:524][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.11.08-21.57.04:526][529]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-21.57.04:526][529]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-21.57.04:526][529]LogAIModule: Creating AISystem for world Level2GDWMap
+[2023.11.08-21.57.04:527][529]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2023.11.08-21.57.04:527][529]LogAudio: Display: Creating Audio Device:                 Id: 80, Scope: Unique, Realtime: True
+[2023.11.08-21.57.04:527][529]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.08-21.57.04:527][529]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.08-21.57.04:527][529]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.08-21.57.04:527][529]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.08-21.57.04:527][529]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.08-21.57.04:527][529]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.08-21.57.04:527][529]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.08-21.57.04:527][529]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.08-21.57.04:527][529]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.08-21.57.04:527][529]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.08-21.57.04:527][529]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.08-21.57.04:529][529]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.08-21.57.04:554][529]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R19U)
+[2023.11.08-21.57.04:554][529]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.08-21.57.04:554][529]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.08-21.57.04:554][529]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.08-21.57.04:555][529]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=80
+[2023.11.08-21.57.04:555][529]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=80
+[2023.11.08-21.57.04:557][529]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=80
+[2023.11.08-21.57.04:557][529]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=80
+[2023.11.08-21.57.04:557][529]LogInit: FAudioDevice initialized with ID 80.
+[2023.11.08-21.57.04:557][529]LogAudio: Display: Audio Device (ID: 80) registered with world 'Level2GDWMap'.
+[2023.11.08-21.57.04:557][529]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 80
+[2023.11.08-21.57.04:559][529]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.08-21.57.04:560][529]LogWorld: Bringing World /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap up for play (max tick rate 0) at 2023.11.08-16.57.04
+[2023.11.08-21.57.04:560][529]LogWorld: Bringing up level for play took: 0.000547
+[2023.11.08-21.57.04:562][529]LogOnline: OSS: Created online subsystem instance for: :Context_154
+[2023.11.08-21.57.04:565][529]PIE: Server logged in
+[2023.11.08-21.57.04:565][529]PIE: Play in editor total start time 0.077 seconds.
+[2023.11.08-21.57.06:649][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-21.57.06:649][753]LogWorld: BeginTearingDown for /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-21.57.06:649][753]LogWorld: UWorld::CleanupWorld for Level2GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-21.57.06:649][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-21.57.06:653][753]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.08-21.57.06:657][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-21.57.06:668][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-21.57.06:668][753]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 80
+[2023.11.08-21.57.06:668][753]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80
+[2023.11.08-21.57.06:670][753]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80
+[2023.11.08-21.57.06:676][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.11.08-21.57.06:738][754]LogPlayLevel: Display: Destroying online subsystem :Context_154
+[2023.11.08-21.57.15:051][605]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.11.08-21.57.21:287][242]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-21.57.21:341][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.11.08-21.57.21:352][242]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-21.57.21:353][242]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap565139DF4BF24C251D0BBE8C60C54E5A.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-21.57.21:358][242]LogFileHelpers: Saving map 'Level2GDWMap' took 0.049
+[2023.11.08-21.57.21:364][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 36.0 sec)
+[2023.11.08-21.57.21:366][242]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-21.57.21:366][242]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-21.57.21:588][266]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.08-21.57.21:595][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.08-21.57.21:595][266]PIE: New page: PIE session: Level2GDWMap (Nov. 8, 2023, 11:57:21 a.m.)
+[2023.11.08-21.57.21:628][266]LogPlayLevel: Creating play world package: /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-21.57.21:630][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001641s)
+[2023.11.08-21.57.21:630][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap to /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap (0.001677s)
+[2023.11.08-21.57.21:683][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.11.08-21.57.21:685][266]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-21.57.21:686][266]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-21.57.21:686][266]LogAIModule: Creating AISystem for world Level2GDWMap
+[2023.11.08-21.57.21:686][266]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2023.11.08-21.57.21:686][266]LogAudio: Display: Creating Audio Device:                 Id: 81, Scope: Unique, Realtime: True
+[2023.11.08-21.57.21:686][266]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.08-21.57.21:686][266]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.08-21.57.21:686][266]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.08-21.57.21:686][266]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.08-21.57.21:686][266]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.08-21.57.21:686][266]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.08-21.57.21:686][266]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.08-21.57.21:686][266]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.08-21.57.21:687][266]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.08-21.57.21:687][266]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.08-21.57.21:687][266]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.08-21.57.21:689][266]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.08-21.57.21:717][266]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R19U)
+[2023.11.08-21.57.21:717][266]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.08-21.57.21:717][266]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.08-21.57.21:718][266]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.08-21.57.21:718][266]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=81
+[2023.11.08-21.57.21:718][266]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=81
+[2023.11.08-21.57.21:720][266]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=81
+[2023.11.08-21.57.21:720][266]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=81
+[2023.11.08-21.57.21:720][266]LogInit: FAudioDevice initialized with ID 81.
+[2023.11.08-21.57.21:720][266]LogAudio: Display: Audio Device (ID: 81) registered with world 'Level2GDWMap'.
+[2023.11.08-21.57.21:720][266]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 81
+[2023.11.08-21.57.21:722][266]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.08-21.57.21:723][266]LogWorld: Bringing World /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap up for play (max tick rate 0) at 2023.11.08-16.57.21
+[2023.11.08-21.57.21:723][266]LogWorld: Bringing up level for play took: 0.000605
+[2023.11.08-21.57.21:725][266]LogOnline: OSS: Created online subsystem instance for: :Context_155
+[2023.11.08-21.57.21:727][266]PIE: Server logged in
+[2023.11.08-21.57.21:728][266]PIE: Play in editor total start time 0.134 seconds.
+[2023.11.08-21.57.25:629][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-21.57.25:629][711]LogWorld: BeginTearingDown for /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-21.57.25:629][711]LogWorld: UWorld::CleanupWorld for Level2GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-21.57.25:629][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-21.57.25:633][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.08-21.57.25:637][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-21.57.25:650][711]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.08-21.57.25:650][711]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 81
+[2023.11.08-21.57.25:651][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2023.11.08-21.57.25:652][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2023.11.08-21.57.25:656][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-21.57.25:659][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.11.08-21.57.25:708][712]LogPlayLevel: Display: Destroying online subsystem :Context_155
+[2023.11.08-21.57.40:132][227]Cmd: EDIT COPY
+[2023.11.08-21.57.40:363][250]Cmd: EDIT PASTE
+[2023.11.08-21.57.49:536][183]Cmd: TRANSACTION UNDO
+[2023.11.08-21.57.49:536][183]LogEditorTransaction: Undo Rotate Elements
+[2023.11.08-21.57.50:475][241]Cmd: MODE ROTGRID=1
+[2023.11.08-21.58.45:027][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-21.58.45:089][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.11.08-21.58.45:106][369]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-21.58.45:107][369]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap0E96C4C841D5BA7CCE32B08BBDDF3459.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-21.58.45:112][369]LogFileHelpers: Saving map 'Level2GDWMap' took 0.054
+[2023.11.08-21.58.45:118][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 36.1 sec)
+[2023.11.08-21.58.45:120][369]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-21.58.45:120][369]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-21.58.49:958][831]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.08-21.58.49:965][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.08-21.58.49:965][831]PIE: New page: PIE session: Level2GDWMap (Nov. 8, 2023, 11:58:49 a.m.)
+[2023.11.08-21.58.49:999][831]LogPlayLevel: Creating play world package: /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-21.58.50:001][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001954s)
+[2023.11.08-21.58.50:001][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap to /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap (0.001989s)
+[2023.11.08-21.58.50:030][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.11.08-21.58.50:033][831]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-21.58.50:033][831]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-21.58.50:034][831]LogAIModule: Creating AISystem for world Level2GDWMap
+[2023.11.08-21.58.50:034][831]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2023.11.08-21.58.50:034][831]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2023.11.08-21.58.50:034][831]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.08-21.58.50:034][831]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.08-21.58.50:034][831]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.08-21.58.50:034][831]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.08-21.58.50:034][831]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.08-21.58.50:034][831]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.08-21.58.50:034][831]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.08-21.58.50:034][831]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.08-21.58.50:034][831]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.08-21.58.50:035][831]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.08-21.58.50:035][831]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.08-21.58.50:037][831]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.08-21.58.50:068][831]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R19U)
+[2023.11.08-21.58.50:068][831]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.08-21.58.50:068][831]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.08-21.58.50:068][831]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.08-21.58.50:069][831]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=82
+[2023.11.08-21.58.50:069][831]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=82
+[2023.11.08-21.58.50:071][831]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=82
+[2023.11.08-21.58.50:071][831]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=82
+[2023.11.08-21.58.50:071][831]LogInit: FAudioDevice initialized with ID 82.
+[2023.11.08-21.58.50:071][831]LogAudio: Display: Audio Device (ID: 82) registered with world 'Level2GDWMap'.
+[2023.11.08-21.58.50:071][831]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 82
+[2023.11.08-21.58.50:074][831]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.08-21.58.50:075][831]LogWorld: Bringing World /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap up for play (max tick rate 0) at 2023.11.08-16.58.50
+[2023.11.08-21.58.50:075][831]LogWorld: Bringing up level for play took: 0.000852
+[2023.11.08-21.58.50:078][831]LogOnline: OSS: Created online subsystem instance for: :Context_156
+[2023.11.08-21.58.50:081][831]PIE: Server logged in
+[2023.11.08-21.58.50:082][831]PIE: Play in editor total start time 0.117 seconds.
+[2023.11.08-21.59.02:579][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-21.59.02:579][143]LogWorld: BeginTearingDown for /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-21.59.02:579][143]LogWorld: UWorld::CleanupWorld for Level2GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-21.59.02:579][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-21.59.02:582][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.08-21.59.02:587][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-21.59.02:601][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-21.59.02:601][143]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 82
+[2023.11.08-21.59.02:601][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82
+[2023.11.08-21.59.02:603][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82
+[2023.11.08-21.59.02:609][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.08-21.59.02:678][144]LogPlayLevel: Display: Destroying online subsystem :Context_156
+[2023.11.08-21.59.16:089][517]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.11.08-21.59.16:423][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-21.59.16:480][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.11.08-21.59.16:492][553]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-21.59.16:493][553]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap79C6DBE04F5B4FF9339C97A5A43A91A6.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-21.59.16:498][553]LogFileHelpers: Saving map 'Level2GDWMap' took 0.048
+[2023.11.08-21.59.16:504][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 36.2 sec)
+[2023.11.08-21.59.16:505][553]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-21.59.16:505][553]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.00.02:560][411]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 9
+[2023.11.08-22.00.02:661][423]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 0
+[2023.11.08-22.00.28:034][ 46]Cmd: TRANSACTION UNDO
+[2023.11.08-22.00.28:034][ 46]LogEditorTransaction: Undo Move Elements
+[2023.11.08-22.02.13:036][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.02.13:095][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.11.08-22.02.13:111][ 64]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.02.13:112][ 64]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapFBDEE2D44833D2EDF3C7AFB6E069F203.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.02.13:118][ 64]LogFileHelpers: Saving map 'Level2GDWMap' took 0.055
+[2023.11.08-22.02.13:123][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 36.3 sec)
+[2023.11.08-22.02.13:124][ 64]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.02.13:124][ 64]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.03.17:517][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.03.17:584][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.11.08-22.03.17:599][369]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.03.17:600][369]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap4A94D057436CD7C7CF785EAF60AC450E.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.03.17:606][369]LogFileHelpers: Saving map 'Level2GDWMap' took 0.055
+[2023.11.08-22.03.17:612][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 36.4 sec)
+[2023.11.08-22.03.17:613][369]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.03.17:613][369]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.04.10:474][878]Cmd: TRANSACTION UNDO
+[2023.11.08-22.04.10:474][878]LogEditorTransaction: Undo Move Elements
+[2023.11.08-22.04.12:014][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.04.12:080][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.11.08-22.04.12:096][976]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.04.12:097][976]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap316541E34E9DB2301A9D6588F39ECA43.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.04.12:103][976]LogFileHelpers: Saving map 'Level2GDWMap' took 0.054
+[2023.11.08-22.04.12:109][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 36.5 sec)
+[2023.11.08-22.04.12:111][976]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.04.12:111][976]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.04.45:976][558]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.04.46:032][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.11.08-22.04.46:047][558]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.04.46:048][558]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapD1F237464F957EEF7DACF1B069094B6F.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.04.46:053][558]LogFileHelpers: Saving map 'Level2GDWMap' took 0.051
+[2023.11.08-22.04.46:059][558]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 36.6 sec)
+[2023.11.08-22.04.46:059][558]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.04.46:060][558]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.05.09:314][680]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.05.09:377][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.11.08-22.05.09:391][680]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.05.09:392][680]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap23D4EF4F40348097F34EEBBEDAA58165.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.05.09:397][680]LogFileHelpers: Saving map 'Level2GDWMap' took 0.050
+[2023.11.08-22.05.09:403][680]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 36.6 sec)
+[2023.11.08-22.05.09:405][680]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.05.09:405][680]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.05.35:610][494]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.05.35:664][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.11.08-22.05.35:678][494]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.05.35:679][494]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap534B045A47DC0B4FDD714EB7442CD786.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.05.35:684][494]LogFileHelpers: Saving map 'Level2GDWMap' took 0.050
+[2023.11.08-22.05.35:690][494]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 36.7 sec)
+[2023.11.08-22.05.35:691][494]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.05.35:691][494]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.05.57:307][517]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.05.57:375][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.11.08-22.05.57:390][517]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.05.57:391][517]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap17D553824DFD83DF236725B4E8A0057B.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.05.57:396][517]LogFileHelpers: Saving map 'Level2GDWMap' took 0.051
+[2023.11.08-22.05.57:402][517]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 36.8 sec)
+[2023.11.08-22.05.57:402][517]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.05.57:402][517]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.06.11:929][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.06.12:004][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.11.08-22.06.12:019][891]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.06.12:020][891]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap7DDD77EA43416B58364A2EA44AE6AAC1.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.06.12:025][891]LogFileHelpers: Saving map 'Level2GDWMap' took 0.050
+[2023.11.08-22.06.12:031][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 36.9 sec)
+[2023.11.08-22.06.12:032][891]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.06.12:032][891]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.06.22:586][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.06.22:649][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.11.08-22.06.22:664][953]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.06.22:665][953]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapDBD7F66646F443FD27341A9844714EE1.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.06.22:670][953]LogFileHelpers: Saving map 'Level2GDWMap' took 0.052
+[2023.11.08-22.06.22:677][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 37.0 sec)
+[2023.11.08-22.06.22:678][953]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.06.22:678][953]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.06.38:656][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.06.38:715][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.08-22.06.38:730][733]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.06.38:730][733]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap7029F13541DF03C0C67609BEDAB91C81.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.06.38:736][733]LogFileHelpers: Saving map 'Level2GDWMap' took 0.051
+[2023.11.08-22.06.38:741][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 37.1 sec)
+[2023.11.08-22.06.38:742][733]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.06.38:742][733]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.07.22:421][205]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.07.22:496][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.11.08-22.07.22:513][205]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.07.22:513][205]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapE08D7ABF40AA3E64DFB7689C2DB58FF5.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.07.22:519][205]LogFileHelpers: Saving map 'Level2GDWMap' took 0.054
+[2023.11.08-22.07.22:524][205]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 37.2 sec)
+[2023.11.08-22.07.22:526][205]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.07.22:526][205]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.07.30:047][999]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.08-22.07.30:053][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.08-22.07.30:053][999]PIE: New page: PIE session: Level2GDWMap (Nov. 8, 2023, 12:07:30 p.m.)
+[2023.11.08-22.07.30:079][999]LogPlayLevel: Creating play world package: /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-22.07.30:081][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002360s)
+[2023.11.08-22.07.30:081][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap to /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap (0.002395s)
+[2023.11.08-22.07.30:094][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.08-22.07.30:096][999]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-22.07.30:097][999]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-22.07.30:097][999]LogAIModule: Creating AISystem for world Level2GDWMap
+[2023.11.08-22.07.30:097][999]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2023.11.08-22.07.30:097][999]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2023.11.08-22.07.30:097][999]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.08-22.07.30:097][999]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.08-22.07.30:097][999]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.08-22.07.30:097][999]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.08-22.07.30:097][999]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.08-22.07.30:097][999]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.08-22.07.30:097][999]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.08-22.07.30:097][999]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.08-22.07.30:098][999]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.08-22.07.30:098][999]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.08-22.07.30:098][999]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.08-22.07.30:100][999]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.08-22.07.30:128][999]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R19U)
+[2023.11.08-22.07.30:128][999]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.08-22.07.30:128][999]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.08-22.07.30:128][999]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.08-22.07.30:129][999]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=83
+[2023.11.08-22.07.30:129][999]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=83
+[2023.11.08-22.07.30:130][999]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=83
+[2023.11.08-22.07.30:130][999]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=83
+[2023.11.08-22.07.30:130][999]LogInit: FAudioDevice initialized with ID 83.
+[2023.11.08-22.07.30:130][999]LogAudio: Display: Audio Device (ID: 83) registered with world 'Level2GDWMap'.
+[2023.11.08-22.07.30:130][999]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 83
+[2023.11.08-22.07.30:133][999]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.08-22.07.30:134][999]LogWorld: Bringing World /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap up for play (max tick rate 0) at 2023.11.08-17.07.30
+[2023.11.08-22.07.30:134][999]LogWorld: Bringing up level for play took: 0.001096
+[2023.11.08-22.07.30:136][999]LogOnline: OSS: Created online subsystem instance for: :Context_157
+[2023.11.08-22.07.30:139][999]PIE: Server logged in
+[2023.11.08-22.07.30:140][999]PIE: Play in editor total start time 0.086 seconds.
+[2023.11.08-22.07.40:720][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-22.07.40:720][ 75]LogWorld: BeginTearingDown for /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-22.07.40:720][ 75]LogWorld: UWorld::CleanupWorld for Level2GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-22.07.40:720][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.07.40:724][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.08-22.07.40:729][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.07.40:741][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-22.07.40:741][ 75]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 83
+[2023.11.08-22.07.40:741][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83
+[2023.11.08-22.07.40:743][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83
+[2023.11.08-22.07.40:750][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.08-22.07.40:817][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_157
+[2023.11.08-22.07.45:635][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.07.45:700][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.11.08-22.07.45:717][572]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.07.45:718][572]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapC9D82ADC4B0F98DB50A32B8C6C711360.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.07.45:723][572]LogFileHelpers: Saving map 'Level2GDWMap' took 0.063
+[2023.11.08-22.07.45:729][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 37.3 sec)
+[2023.11.08-22.07.45:730][572]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.07.45:730][572]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.14.35:156][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.14.35:230][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.11.08-22.14.35:242][477]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.14.35:243][477]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap20D457254ADCD0EB5D6D43A9346C96B1.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.14.35:248][477]LogFileHelpers: Saving map 'Level2GDWMap' took 0.050
+[2023.11.08-22.14.35:254][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 37.4 sec)
+[2023.11.08-22.14.35:255][477]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.14.35:255][477]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.15.54:512][351]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser_C
+[2023.11.08-22.15.54:512][351]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser_C
+[2023.11.08-22.15.54:514][351]LogActorFactory: Actor Factory spawned Blueprint /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser as actor: BPP_BP_Laser_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BPP_BP_Laser_C_0
+[2023.11.08-22.15.54:515][351]LogActorFactory: Actor Factory spawned Blueprint /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser as actor: BPP_BP_Laser_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BPP_BP_Laser_C_0
+[2023.11.08-22.15.59:028][862]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser_C
+[2023.11.08-22.15.59:028][862]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser_C
+[2023.11.08-22.15.59:031][862]LogActorFactory: Actor Factory spawned Blueprint /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser as actor: BPP_BP_Laser_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BPP_BP_Laser_C_1
+[2023.11.08-22.15.59:032][862]LogActorFactory: Actor Factory spawned Blueprint /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser as actor: BPP_BP_Laser_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BPP_BP_Laser_C_1
+[2023.11.08-22.16.16:141][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.16.16:216][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.11.08-22.16.16:235][601]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.16.16:236][601]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapE65174874C1701333D538581786211D2.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.16.16:241][601]LogFileHelpers: Saving map 'Level2GDWMap' took 0.059
+[2023.11.08-22.16.16:248][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 37.5 sec)
+[2023.11.08-22.16.16:249][601]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.16.16:249][601]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.16.42:402][289]Cmd: DELETE
+[2023.11.08-22.16.42:402][289]Cmd: ACTOR DELETE
+[2023.11.08-22.16.42:424][289]LogEditorActor: Deleted Actor: BPP_BP_Laser_C
+[2023.11.08-22.16.42:440][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.11.08-22.16.42:448][289]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2023.11.08-22.16.42:929][334]Cmd: DELETE
+[2023.11.08-22.16.42:929][334]Cmd: ACTOR DELETE
+[2023.11.08-22.16.42:931][334]LogEditorActor: Deleted Actor: BPP_BP_Laser_C
+[2023.11.08-22.16.42:946][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.11.08-22.16.42:950][334]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2023.11.08-22.16.46:461][676]Cmd: TRANSACTION UNDO
+[2023.11.08-22.16.46:461][676]LogEditorTransaction: Undo Rotate Elements
+[2023.11.08-22.17.04:450][290]Cmd: TRANSACTION UNDO
+[2023.11.08-22.17.04:450][290]LogEditorTransaction: Undo Move Elements
+[2023.11.08-22.17.04:451][290]LogActorComponent: RegisterComponentWithWorld: (/Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BPP_BP_Laser_C_1.BillboardComponent_0) Already registered. Aborting.
+[2023.11.08-22.17.07:980][563]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.08-22.17.07:986][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.08-22.17.07:986][563]PIE: New page: PIE session: Level2GDWMap (Nov. 8, 2023, 12:17:07 p.m.)
+[2023.11.08-22.17.08:020][563]LogPlayLevel: Creating play world package: /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-22.17.08:023][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002700s)
+[2023.11.08-22.17.08:023][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap to /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap (0.002731s)
+[2023.11.08-22.17.08:038][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.11.08-22.17.08:043][563]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-22.17.08:044][563]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-22.17.08:044][563]LogAIModule: Creating AISystem for world Level2GDWMap
+[2023.11.08-22.17.08:044][563]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2023.11.08-22.17.08:044][563]LogAudio: Display: Creating Audio Device:                 Id: 84, Scope: Unique, Realtime: True
+[2023.11.08-22.17.08:044][563]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.08-22.17.08:044][563]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.08-22.17.08:044][563]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.08-22.17.08:044][563]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.08-22.17.08:044][563]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.08-22.17.08:044][563]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.08-22.17.08:044][563]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.08-22.17.08:045][563]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.08-22.17.08:045][563]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.08-22.17.08:045][563]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.08-22.17.08:045][563]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.08-22.17.08:047][563]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.08-22.17.08:073][563]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R19U)
+[2023.11.08-22.17.08:074][563]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.08-22.17.08:074][563]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.08-22.17.08:074][563]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.08-22.17.08:075][563]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=84
+[2023.11.08-22.17.08:075][563]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=84
+[2023.11.08-22.17.08:076][563]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=84
+[2023.11.08-22.17.08:076][563]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=84
+[2023.11.08-22.17.08:076][563]LogInit: FAudioDevice initialized with ID 84.
+[2023.11.08-22.17.08:076][563]LogAudio: Display: Audio Device (ID: 84) registered with world 'Level2GDWMap'.
+[2023.11.08-22.17.08:076][563]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 84
+[2023.11.08-22.17.08:079][563]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.08-22.17.08:080][563]LogWorld: Bringing World /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap up for play (max tick rate 0) at 2023.11.08-17.17.08
+[2023.11.08-22.17.08:080][563]LogWorld: Bringing up level for play took: 0.001351
+[2023.11.08-22.17.08:082][563]LogOnline: OSS: Created online subsystem instance for: :Context_158
+[2023.11.08-22.17.08:085][563]PIE: Server logged in
+[2023.11.08-22.17.08:086][563]PIE: Play in editor total start time 0.1 seconds.
+[2023.11.08-22.17.56:035][720]LogDerivedDataCache: C:/Users/parag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:28.403 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 14976 files in 16866 folders with total size 705 MiB.
+[2023.11.08-22.18.01:811][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-22.18.01:811][343]LogWorld: BeginTearingDown for /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-22.18.01:811][343]LogWorld: UWorld::CleanupWorld for Level2GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-22.18.01:811][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.18.01:814][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.08-22.18.01:819][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.18.01:832][343]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.08-22.18.01:832][343]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 84
+[2023.11.08-22.18.01:832][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84
+[2023.11.08-22.18.01:834][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84
+[2023.11.08-22.18.01:838][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-22.18.01:841][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.08-22.18.01:908][344]LogPlayLevel: Display: Destroying online subsystem :Context_158
+[2023.11.08-22.18.28:644][711]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.18.28:718][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.11.08-22.18.28:734][711]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.18.28:735][711]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap63F74E754C3174B2752F31B09D314345.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.18.28:740][711]LogFileHelpers: Saving map 'Level2GDWMap' took 0.055
+[2023.11.08-22.18.28:747][711]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 37.6 sec)
+[2023.11.08-22.18.28:748][711]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.18.28:748][711]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.19.17:344][392]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser_C
+[2023.11.08-22.19.17:344][392]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser_C
+[2023.11.08-22.19.17:346][392]LogActorFactory: Actor Factory spawned Blueprint /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser as actor: BPP_BP_Laser_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BPP_BP_Laser_C_5
+[2023.11.08-22.19.17:347][392]LogActorFactory: Actor Factory spawned Blueprint /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser as actor: BPP_BP_Laser_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BPP_BP_Laser_C_5
+[2023.11.08-22.19.18:170][468]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser_C
+[2023.11.08-22.19.18:170][468]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser_C
+[2023.11.08-22.19.18:173][468]LogActorFactory: Actor Factory spawned Blueprint /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser as actor: BPP_BP_Laser_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BPP_BP_Laser_C_6
+[2023.11.08-22.19.18:174][468]LogActorFactory: Actor Factory spawned Blueprint /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser as actor: BPP_BP_Laser_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BPP_BP_Laser_C_6
+[2023.11.08-22.19.27:629][408]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.19.27:702][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.11.08-22.19.27:720][408]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.19.27:721][408]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap34BA40C64CAE8BA2A4E6098B36D340A7.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.19.27:726][408]LogFileHelpers: Saving map 'Level2GDWMap' took 0.058
+[2023.11.08-22.19.27:732][408]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 37.7 sec)
+[2023.11.08-22.19.27:751][408]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.19.27:751][408]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.19.46:905][140]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.19.46:972][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.11.08-22.19.46:986][140]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.19.46:986][140]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap4700350B4F437237FFDF10A4E014AEA0.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.19.46:992][140]LogFileHelpers: Saving map 'Level2GDWMap' took 0.050
+[2023.11.08-22.19.46:998][140]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 37.8 sec)
+[2023.11.08-22.19.46:999][140]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.19.46:999][140]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.20.14:395][708]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.08-22.20.14:401][708]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.08-22.20.14:401][708]PIE: New page: PIE session: Level2GDWMap (Nov. 8, 2023, 12:20:14 p.m.)
+[2023.11.08-22.20.14:430][708]LogPlayLevel: Creating play world package: /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-22.20.14:435][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004054s)
+[2023.11.08-22.20.14:435][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap to /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap (0.004103s)
+[2023.11.08-22.20.14:458][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.11.08-22.20.14:466][708]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-22.20.14:466][708]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-22.20.14:467][708]LogAIModule: Creating AISystem for world Level2GDWMap
+[2023.11.08-22.20.14:467][708]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2023.11.08-22.20.14:467][708]LogAudio: Display: Creating Audio Device:                 Id: 85, Scope: Unique, Realtime: True
+[2023.11.08-22.20.14:467][708]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.08-22.20.14:467][708]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.08-22.20.14:467][708]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.08-22.20.14:467][708]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.08-22.20.14:467][708]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.08-22.20.14:467][708]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.08-22.20.14:467][708]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.08-22.20.14:467][708]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.08-22.20.14:467][708]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.08-22.20.14:467][708]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.08-22.20.14:467][708]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.08-22.20.14:470][708]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.08-22.20.14:497][708]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R19U)
+[2023.11.08-22.20.14:498][708]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.08-22.20.14:498][708]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.08-22.20.14:498][708]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.08-22.20.14:499][708]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=85
+[2023.11.08-22.20.14:499][708]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=85
+[2023.11.08-22.20.14:500][708]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=85
+[2023.11.08-22.20.14:500][708]LogInit: FAudioDevice initialized with ID 85.
+[2023.11.08-22.20.14:500][708]LogAudio: Display: Audio Device (ID: 85) registered with world 'Level2GDWMap'.
+[2023.11.08-22.20.14:500][708]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 85
+[2023.11.08-22.20.14:500][708]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=85
+[2023.11.08-22.20.14:503][708]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.08-22.20.14:505][708]LogWorld: Bringing World /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap up for play (max tick rate 0) at 2023.11.08-17.20.14
+[2023.11.08-22.20.14:505][708]LogWorld: Bringing up level for play took: 0.002317
+[2023.11.08-22.20.14:507][708]LogOnline: OSS: Created online subsystem instance for: :Context_159
+[2023.11.08-22.20.14:510][708]PIE: Server logged in
+[2023.11.08-22.20.14:511][708]PIE: Play in editor total start time 0.11 seconds.
+[2023.11.08-22.20.29:641][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-22.20.29:641][290]LogWorld: BeginTearingDown for /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-22.20.29:641][290]LogWorld: UWorld::CleanupWorld for Level2GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-22.20.29:641][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.20.29:645][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.08-22.20.29:649][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.20.29:662][290]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.08-22.20.29:662][290]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 85
+[2023.11.08-22.20.29:662][290]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85
+[2023.11.08-22.20.29:664][290]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85
+[2023.11.08-22.20.29:668][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-22.20.29:671][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.11.08-22.20.29:720][291]LogPlayLevel: Display: Destroying online subsystem :Context_159
+[2023.11.08-22.20.37:795][ 54]Cmd: DELETE
+[2023.11.08-22.20.37:795][ 54]Cmd: ACTOR DELETE
+[2023.11.08-22.20.37:820][ 54]LogEditorActor: Deleted Actor: BPP_BP_Laser_C
+[2023.11.08-22.20.37:821][ 54]LogEditorActor: Deleted Actor: BPP_BP_Laser_C
+[2023.11.08-22.20.37:822][ 54]LogEditorActor: Deleted Actor: BPP_BP_Laser_C
+[2023.11.08-22.20.37:822][ 54]LogEditorActor: Deleted Actor: BPP_BP_Laser_C
+[2023.11.08-22.20.37:823][ 54]LogEditorActor: Deleted Actor: BPP_BP_Laser_C
+[2023.11.08-22.20.37:838][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.11.08-22.20.37:846][ 54]LogEditorActor: Deleted 5 Actors (0.051 secs)
+[2023.11.08-22.20.38:300][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.20.38:368][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.11.08-22.20.38:381][101]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.20.38:382][101]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap6CEDF39A4AF39AB4473681BC2DF77AD9.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.20.38:387][101]LogFileHelpers: Saving map 'Level2GDWMap' took 0.048
+[2023.11.08-22.20.38:393][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 37.9 sec)
+[2023.11.08-22.20.38:394][101]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.20.38:394][101]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.22.57:327][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.22.57:415][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.08-22.22.57:448][ 92]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.22.57:449][ 92]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapAF38ED8E410630C87330F6BEE45B1245.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.22.57:455][ 92]LogFileHelpers: Saving map 'Level2GDWMap' took 0.073
+[2023.11.08-22.22.57:461][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 38.0 sec)
+[2023.11.08-22.22.57:463][ 92]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.22.57:463][ 92]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.22.58:753][205]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.08-22.22.58:759][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.08-22.22.58:759][205]PIE: New page: PIE session: Level2GDWMap (Nov. 8, 2023, 12:22:58 p.m.)
+[2023.11.08-22.22.58:780][205]LogPlayLevel: Creating play world package: /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-22.22.58:786][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005951s)
+[2023.11.08-22.22.58:786][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap to /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap (0.005988s)
+[2023.11.08-22.22.58:802][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.11.08-22.22.58:804][205]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-22.22.58:804][205]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-22.22.58:804][205]LogAIModule: Creating AISystem for world Level2GDWMap
+[2023.11.08-22.22.58:805][205]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2023.11.08-22.22.58:805][205]LogAudio: Display: Creating Audio Device:                 Id: 86, Scope: Unique, Realtime: True
+[2023.11.08-22.22.58:805][205]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.08-22.22.58:805][205]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.08-22.22.58:805][205]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.08-22.22.58:805][205]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.08-22.22.58:805][205]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.08-22.22.58:805][205]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.08-22.22.58:805][205]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.08-22.22.58:805][205]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.08-22.22.58:805][205]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.08-22.22.58:805][205]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.08-22.22.58:805][205]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.08-22.22.58:807][205]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.08-22.22.58:835][205]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R19U)
+[2023.11.08-22.22.58:835][205]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.08-22.22.58:835][205]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.08-22.22.58:835][205]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.08-22.22.58:836][205]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=86
+[2023.11.08-22.22.58:836][205]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=86
+[2023.11.08-22.22.58:837][205]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=86
+[2023.11.08-22.22.58:837][205]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=86
+[2023.11.08-22.22.58:837][205]LogInit: FAudioDevice initialized with ID 86.
+[2023.11.08-22.22.58:837][205]LogAudio: Display: Audio Device (ID: 86) registered with world 'Level2GDWMap'.
+[2023.11.08-22.22.58:837][205]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 86
+[2023.11.08-22.22.58:840][205]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.08-22.22.58:844][205]LogWorld: Bringing World /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap up for play (max tick rate 0) at 2023.11.08-17.22.58
+[2023.11.08-22.22.58:844][205]LogWorld: Bringing up level for play took: 0.004067
+[2023.11.08-22.22.58:846][205]LogOnline: OSS: Created online subsystem instance for: :Context_160
+[2023.11.08-22.22.58:849][205]PIE: Server logged in
+[2023.11.08-22.22.58:850][205]PIE: Play in editor total start time 0.091 seconds.
+[2023.11.08-22.23.14:411][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-22.23.14:411][800]LogWorld: BeginTearingDown for /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-22.23.14:411][800]LogWorld: UWorld::CleanupWorld for Level2GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-22.23.14:412][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.23.14:415][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.08-22.23.14:420][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.23.14:434][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-22.23.14:435][800]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 86
+[2023.11.08-22.23.14:435][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=86
+[2023.11.08-22.23.14:437][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=86
+[2023.11.08-22.23.14:444][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.08-22.23.14:499][801]LogPlayLevel: Display: Destroying online subsystem :Context_160
+[2023.11.08-22.23.20:519][340]Cmd: TRANSACTION UNDO
+[2023.11.08-22.23.20:519][340]LogEditorTransaction: Undo Move Elements
+[2023.11.08-22.23.24:090][603]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.23.24:156][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.11.08-22.23.24:185][603]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.23.24:186][603]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap2D250E1C41A249EA283A468B95CE92BF.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.23.24:192][603]LogFileHelpers: Saving map 'Level2GDWMap' took 0.069
+[2023.11.08-22.23.24:198][603]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 38.1 sec)
+[2023.11.08-22.23.24:199][603]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.23.24:199][603]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.23.36:011][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.23.36:073][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.08-22.23.36:098][783]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.23.36:099][783]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap39641DAE4525A9F928CF7698B3A5EA4B.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.23.36:104][783]LogFileHelpers: Saving map 'Level2GDWMap' took 0.061
+[2023.11.08-22.23.36:110][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 38.2 sec)
+[2023.11.08-22.23.36:111][783]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.23.36:111][783]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.23.47:116][858]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.23.47:173][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.11.08-22.23.47:197][858]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.23.47:198][858]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap7EEFD6D74322CF32E610B1897FE1D1CA.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.23.47:204][858]LogFileHelpers: Saving map 'Level2GDWMap' took 0.061
+[2023.11.08-22.23.47:210][858]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 38.3 sec)
+[2023.11.08-22.23.47:211][858]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.23.47:211][858]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.23.47:389][876]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.08-22.23.47:395][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.08-22.23.47:395][876]PIE: New page: PIE session: Level2GDWMap (Nov. 8, 2023, 12:23:47 p.m.)
+[2023.11.08-22.23.47:421][876]LogPlayLevel: Creating play world package: /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-22.23.47:427][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005996s)
+[2023.11.08-22.23.47:427][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap to /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap (0.006030s)
+[2023.11.08-22.23.47:441][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.11.08-22.23.47:443][876]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-22.23.47:443][876]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-22.23.47:443][876]LogAIModule: Creating AISystem for world Level2GDWMap
+[2023.11.08-22.23.47:444][876]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2023.11.08-22.23.47:444][876]LogAudio: Display: Creating Audio Device:                 Id: 87, Scope: Unique, Realtime: True
+[2023.11.08-22.23.47:444][876]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.08-22.23.47:444][876]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.08-22.23.47:444][876]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.08-22.23.47:444][876]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.08-22.23.47:444][876]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.08-22.23.47:444][876]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.08-22.23.47:444][876]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.08-22.23.47:444][876]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.08-22.23.47:444][876]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.08-22.23.47:444][876]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.08-22.23.47:444][876]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.08-22.23.47:446][876]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.08-22.23.47:566][876]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R19U)
+[2023.11.08-22.23.47:566][876]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.08-22.23.47:566][876]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.08-22.23.47:566][876]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.08-22.23.47:566][876]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=87
+[2023.11.08-22.23.47:566][876]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=87
+[2023.11.08-22.23.47:568][876]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=87
+[2023.11.08-22.23.47:568][876]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=87
+[2023.11.08-22.23.47:568][876]LogInit: FAudioDevice initialized with ID 87.
+[2023.11.08-22.23.47:568][876]LogAudio: Display: Audio Device (ID: 87) registered with world 'Level2GDWMap'.
+[2023.11.08-22.23.47:568][876]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 87
+[2023.11.08-22.23.47:571][876]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.08-22.23.47:575][876]LogWorld: Bringing World /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap up for play (max tick rate 0) at 2023.11.08-17.23.47
+[2023.11.08-22.23.47:576][876]LogWorld: Bringing up level for play took: 0.003926
+[2023.11.08-22.23.47:577][876]LogOnline: OSS: Created online subsystem instance for: :Context_161
+[2023.11.08-22.23.47:580][876]PIE: Server logged in
+[2023.11.08-22.23.47:581][876]PIE: Play in editor total start time 0.185 seconds.
+[2023.11.08-22.23.58:380][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-22.23.58:380][ 20]LogWorld: BeginTearingDown for /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-22.23.58:381][ 20]LogWorld: UWorld::CleanupWorld for Level2GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-22.23.58:381][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.23.58:384][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.08-22.23.58:389][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.23.58:402][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-22.23.58:403][ 20]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 87
+[2023.11.08-22.23.58:403][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87
+[2023.11.08-22.23.58:405][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87
+[2023.11.08-22.23.58:411][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.08-22.23.58:480][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_161
+[2023.11.08-22.24.08:338][838]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.24.08:404][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.11.08-22.24.08:433][838]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.24.08:433][838]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapBC4912E24E3ACA2074F64CA4EE440528.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.24.08:439][838]LogFileHelpers: Saving map 'Level2GDWMap' took 0.065
+[2023.11.08-22.24.08:444][838]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 38.4 sec)
+[2023.11.08-22.24.08:445][838]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.24.08:445][838]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.24.17:987][746]Cmd: TRANSACTION UNDO
+[2023.11.08-22.24.17:987][746]LogEditorTransaction: Undo Scale Elements
+[2023.11.08-22.24.17:988][746]LogActorComponent: RegisterComponentWithWorld: (/Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BPP_BP_Laser_C_17.BillboardComponent_0) Already registered. Aborting.
+[2023.11.08-22.24.23:486][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.24.23:558][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.11.08-22.24.23:585][193]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.24.23:586][193]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap2987A85942287A0C62F9179BAEB26FE0.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.24.23:591][193]LogFileHelpers: Saving map 'Level2GDWMap' took 0.065
+[2023.11.08-22.24.23:597][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 38.5 sec)
+[2023.11.08-22.24.23:599][193]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.24.23:599][193]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.24.31:695][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.24.31:765][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.11.08-22.24.31:790][874]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.24.31:791][874]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap8DCE5CCD4D98D8882A28B9996497C5EE.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.24.31:797][874]LogFileHelpers: Saving map 'Level2GDWMap' took 0.061
+[2023.11.08-22.24.31:802][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 38.7 sec)
+[2023.11.08-22.24.31:804][874]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.24.31:804][874]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.24.37:650][358]Cmd: TRANSACTION UNDO
+[2023.11.08-22.24.37:650][358]LogEditorTransaction: Undo Move Elements
+[2023.11.08-22.24.37:651][358]LogActorComponent: RegisterComponentWithWorld: (/Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BPP_BP_Laser_C_13.BillboardComponent_0) Already registered. Aborting.
+[2023.11.08-22.24.37:893][366]Cmd: TRANSACTION UNDO
+[2023.11.08-22.24.37:893][366]LogEditorTransaction: Undo Move Elements
+[2023.11.08-22.24.37:894][366]LogActorComponent: RegisterComponentWithWorld: (/Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BPP_BP_Laser_C_13.BillboardComponent_0) Already registered. Aborting.
+[2023.11.08-22.24.44:983][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.24.45:056][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.11.08-22.24.45:083][976]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.24.45:084][976]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapF33CBAE848A47E61701CFB953C8756F5.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.24.45:089][976]LogFileHelpers: Saving map 'Level2GDWMap' took 0.063
+[2023.11.08-22.24.45:095][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 38.8 sec)
+[2023.11.08-22.24.45:097][976]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.24.45:097][976]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.25.04:649][748]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.08-22.25.04:655][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.08-22.25.04:656][748]PIE: New page: PIE session: Level2GDWMap (Nov. 8, 2023, 12:25:04 p.m.)
+[2023.11.08-22.25.04:656][748]LogPlayLevel: Creating play world package: /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-22.25.04:662][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006750s)
+[2023.11.08-22.25.04:662][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap to /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap (0.006788s)
+[2023.11.08-22.25.04:677][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.08-22.25.04:683][748]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-22.25.04:683][748]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-22.25.04:684][748]LogAIModule: Creating AISystem for world Level2GDWMap
+[2023.11.08-22.25.04:684][748]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2023.11.08-22.25.04:684][748]LogAudio: Display: Creating Audio Device:                 Id: 88, Scope: Unique, Realtime: True
+[2023.11.08-22.25.04:684][748]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.08-22.25.04:684][748]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.08-22.25.04:684][748]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.08-22.25.04:684][748]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.08-22.25.04:684][748]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.08-22.25.04:684][748]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.08-22.25.04:684][748]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.08-22.25.04:684][748]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.08-22.25.04:685][748]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.08-22.25.04:685][748]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.08-22.25.04:685][748]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.08-22.25.04:687][748]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.08-22.25.04:711][748]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R19U)
+[2023.11.08-22.25.04:711][748]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.08-22.25.04:711][748]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.08-22.25.04:711][748]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.08-22.25.04:712][748]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=88
+[2023.11.08-22.25.04:712][748]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=88
+[2023.11.08-22.25.04:713][748]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=88
+[2023.11.08-22.25.04:713][748]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=88
+[2023.11.08-22.25.04:713][748]LogInit: FAudioDevice initialized with ID 88.
+[2023.11.08-22.25.04:713][748]LogAudio: Display: Audio Device (ID: 88) registered with world 'Level2GDWMap'.
+[2023.11.08-22.25.04:714][748]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 88
+[2023.11.08-22.25.04:716][748]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.08-22.25.04:744][748]LogWorld: Bringing World /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap up for play (max tick rate 0) at 2023.11.08-17.25.04
+[2023.11.08-22.25.04:744][748]LogWorld: Bringing up level for play took: 0.027466
+[2023.11.08-22.25.04:746][748]LogOnline: OSS: Created online subsystem instance for: :Context_162
+[2023.11.08-22.25.04:749][748]PIE: Server logged in
+[2023.11.08-22.25.04:749][748]PIE: Play in editor total start time 0.094 seconds.
+[2023.11.08-22.25.07:361][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-22.25.07:361][ 20]LogWorld: BeginTearingDown for /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-22.25.07:361][ 20]LogWorld: UWorld::CleanupWorld for Level2GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-22.25.07:362][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.25.07:365][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.08-22.25.07:370][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.25.07:383][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-22.25.07:384][ 20]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 88
+[2023.11.08-22.25.07:384][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88
+[2023.11.08-22.25.07:386][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88
+[2023.11.08-22.25.07:393][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.08-22.25.07:485][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_162
+[2023.11.08-22.25.12:885][562]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.08-22.25.12:891][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.08-22.25.12:891][562]PIE: New page: PIE session: Level2GDWMap (Nov. 8, 2023, 12:25:12 p.m.)
+[2023.11.08-22.25.12:891][562]LogPlayLevel: Creating play world package: /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-22.25.12:901][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009532s)
+[2023.11.08-22.25.12:901][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap to /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap (0.009562s)
+[2023.11.08-22.25.12:916][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.11.08-22.25.12:922][562]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-22.25.12:922][562]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-22.25.12:922][562]LogAIModule: Creating AISystem for world Level2GDWMap
+[2023.11.08-22.25.12:922][562]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2023.11.08-22.25.12:923][562]LogAudio: Display: Creating Audio Device:                 Id: 89, Scope: Unique, Realtime: True
+[2023.11.08-22.25.12:923][562]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.08-22.25.12:923][562]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.08-22.25.12:923][562]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.08-22.25.12:923][562]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.08-22.25.12:923][562]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.08-22.25.12:923][562]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.08-22.25.12:923][562]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.08-22.25.12:923][562]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.08-22.25.12:923][562]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.08-22.25.12:923][562]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.08-22.25.12:923][562]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.08-22.25.12:925][562]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.08-22.25.12:951][562]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R19U)
+[2023.11.08-22.25.12:951][562]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.08-22.25.12:951][562]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.08-22.25.12:951][562]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.08-22.25.12:952][562]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=89
+[2023.11.08-22.25.12:952][562]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=89
+[2023.11.08-22.25.12:954][562]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=89
+[2023.11.08-22.25.12:954][562]LogInit: FAudioDevice initialized with ID 89.
+[2023.11.08-22.25.12:954][562]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=89
+[2023.11.08-22.25.12:954][562]LogAudio: Display: Audio Device (ID: 89) registered with world 'Level2GDWMap'.
+[2023.11.08-22.25.12:954][562]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 89
+[2023.11.08-22.25.12:957][562]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.08-22.25.12:962][562]LogWorld: Bringing World /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap up for play (max tick rate 0) at 2023.11.08-17.25.12
+[2023.11.08-22.25.12:962][562]LogWorld: Bringing up level for play took: 0.004372
+[2023.11.08-22.25.12:964][562]LogOnline: OSS: Created online subsystem instance for: :Context_163
+[2023.11.08-22.25.12:966][562]PIE: Server logged in
+[2023.11.08-22.25.12:967][562]PIE: Play in editor total start time 0.076 seconds.
+[2023.11.08-22.25.16:991][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-22.25.16:991][978]LogWorld: BeginTearingDown for /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-22.25.16:991][978]LogWorld: UWorld::CleanupWorld for Level2GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-22.25.16:992][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.25.16:995][978]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.08-22.25.16:999][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.25.17:012][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-22.25.17:013][978]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 89
+[2023.11.08-22.25.17:013][978]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89
+[2023.11.08-22.25.17:015][978]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89
+[2023.11.08-22.25.17:022][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.08-22.25.17:076][979]LogPlayLevel: Display: Destroying online subsystem :Context_163
+[2023.11.08-22.25.17:760][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.25.17:834][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.11.08-22.25.17:860][ 46]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.25.17:860][ 46]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap46339C694260619CD0154A9CF60CADC4.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.25.17:866][ 46]LogFileHelpers: Saving map 'Level2GDWMap' took 0.062
+[2023.11.08-22.25.17:872][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 38.9 sec)
+[2023.11.08-22.25.17:873][ 46]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.25.17:873][ 46]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.25.24:371][661]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.25.24:479][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.11.08-22.25.24:508][661]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.25.24:509][661]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapAAED31C2412E6301560CB4909D3723AE.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.25.24:514][661]LogFileHelpers: Saving map 'Level2GDWMap' took 0.103
+[2023.11.08-22.25.24:521][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 39.0 sec)
+[2023.11.08-22.25.24:522][661]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.25.24:522][661]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.25.49:095][138]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.25.49:157][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.11.08-22.25.49:185][138]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.25.49:185][138]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapDE9EDB7B4EC3F0F79C53979A243B1FEE.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.25.49:191][138]LogFileHelpers: Saving map 'Level2GDWMap' took 0.064
+[2023.11.08-22.25.49:201][138]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 39.1 sec)
+[2023.11.08-22.25.49:202][138]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.25.49:202][138]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.26.13:233][606]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.26.13:292][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.11.08-22.26.13:319][606]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.26.13:320][606]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapEDA565534A3B410F02A38F80F890556D.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.26.13:326][606]LogFileHelpers: Saving map 'Level2GDWMap' took 0.063
+[2023.11.08-22.26.13:336][606]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 39.2 sec)
+[2023.11.08-22.26.13:338][606]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.26.13:338][606]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.26.29:268][ 94]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level1GDW/Level1Assets/Camera/BP_Camera.BP_Camera_C
+[2023.11.08-22.26.29:268][ 94]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level1GDW/Level1Assets/Camera/BP_Camera.BP_Camera_C
+[2023.11.08-22.26.29:270][ 94]LogActorFactory: Actor Factory spawned Blueprint /Game/Level1GDW/Level1Assets/Camera/BP_Camera.BP_Camera as actor: BP_Camera_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BP_Camera_C_0
+[2023.11.08-22.26.29:271][ 94]LogActorFactory: Actor Factory spawned Blueprint /Game/Level1GDW/Level1Assets/Camera/BP_Camera.BP_Camera as actor: BP_Camera_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BP_Camera_C_0
+[2023.11.08-22.26.30:640][189]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level1GDW/Level1Assets/Camera/BP_Camera.BP_Camera_C
+[2023.11.08-22.26.30:640][189]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level1GDW/Level1Assets/Camera/BP_Camera.BP_Camera_C
+[2023.11.08-22.26.30:643][189]LogActorFactory: Actor Factory spawned Blueprint /Game/Level1GDW/Level1Assets/Camera/BP_Camera.BP_Camera as actor: BP_Camera_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BP_Camera_C_1
+[2023.11.08-22.26.30:644][189]LogActorFactory: Actor Factory spawned Blueprint /Game/Level1GDW/Level1Assets/Camera/BP_Camera.BP_Camera as actor: BP_Camera_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BP_Camera_C_1
+[2023.11.08-22.27.00:225][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.27.00:303][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.08-22.27.00:340][931]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.27.00:340][931]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap83281D614010AD5EF0C8B6B8A8D35501.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.27.00:346][931]LogFileHelpers: Saving map 'Level2GDWMap' took 0.076
+[2023.11.08-22.27.00:357][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 39.4 sec)
+[2023.11.08-22.27.00:359][931]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.27.00:359][931]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.27.04:027][278]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Level1GDW/Level1Assets/Camera/BP_Camera.BP_Camera
+[2023.11.08-22.27.04:028][278]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-22.27.04:028][278]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-22.27.05:329][407]LogViewport: Scene viewport resized to 1141x666, mode Windowed.
+[2023.11.08-22.27.11:181][883]LogWorld: UWorld::CleanupWorld for World_102, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-22.27.11:181][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.27.11:188][883]LogWorld: UWorld::CleanupWorld for World_101, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-22.27.11:188][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.27.21:288][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.27.21:387][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.08-22.27.21:418][794]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.27.21:419][794]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap462660424C47BE320C9B5D9E57C99198.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.27.21:424][794]LogFileHelpers: Saving map 'Level2GDWMap' took 0.080
+[2023.11.08-22.27.21:436][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 39.5 sec)
+[2023.11.08-22.27.21:438][794]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.27.21:438][794]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.27.32:590][921]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.11.08-22.27.32:590][921]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.11.08-22.27.32:592][921]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.DirectionalLight_1
+[2023.11.08-22.27.32:592][921]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.DirectionalLight_1
+[2023.11.08-22.27.37:096][358]Cmd: DELETE
+[2023.11.08-22.27.37:096][358]Cmd: ACTOR DELETE
+[2023.11.08-22.27.37:099][358]LogEditorActor: Deleted Actor: DirectionalLight
+[2023.11.08-22.27.37:116][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.11.08-22.27.37:122][358]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2023.11.08-22.27.40:638][703]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2023.11.08-22.27.40:638][703]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2023.11.08-22.28.36:128][893]EditorErrors: New page: Actor attachment
+[2023.11.08-22.28.46:173][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.28.46:246][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.08-22.28.46:282][884]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.28.46:283][884]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap8DE54C31415860D0BEA457B36F9A0859.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.28.46:289][884]LogFileHelpers: Saving map 'Level2GDWMap' took 0.075
+[2023.11.08-22.28.46:295][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 39.6 sec)
+[2023.11.08-22.28.46:296][884]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.28.46:296][884]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.28.47:468][  1]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.08-22.28.47:474][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.08-22.28.47:474][  1]PIE: New page: PIE session: Level2GDWMap (Nov. 8, 2023, 12:28:47 p.m.)
+[2023.11.08-22.28.47:501][  1]LogPlayLevel: Creating play world package: /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-22.28.47:508][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007013s)
+[2023.11.08-22.28.47:508][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap to /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap (0.007049s)
+[2023.11.08-22.28.47:522][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.11.08-22.28.47:524][  1]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-22.28.47:524][  1]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-22.28.47:525][  1]LogAIModule: Creating AISystem for world Level2GDWMap
+[2023.11.08-22.28.47:525][  1]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2023.11.08-22.28.47:525][  1]LogAudio: Display: Creating Audio Device:                 Id: 90, Scope: Unique, Realtime: True
+[2023.11.08-22.28.47:525][  1]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.08-22.28.47:525][  1]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.08-22.28.47:525][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.08-22.28.47:525][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.08-22.28.47:525][  1]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.08-22.28.47:525][  1]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.08-22.28.47:525][  1]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.08-22.28.47:525][  1]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.08-22.28.47:526][  1]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.08-22.28.47:526][  1]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.08-22.28.47:526][  1]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.08-22.28.47:527][  1]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.08-22.28.47:553][  1]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R19U)
+[2023.11.08-22.28.47:553][  1]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.08-22.28.47:553][  1]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.08-22.28.47:553][  1]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.08-22.28.47:554][  1]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=90
+[2023.11.08-22.28.47:554][  1]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=90
+[2023.11.08-22.28.47:556][  1]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=90
+[2023.11.08-22.28.47:556][  1]LogInit: FAudioDevice initialized with ID 90.
+[2023.11.08-22.28.47:556][  1]LogAudio: Display: Audio Device (ID: 90) registered with world 'Level2GDWMap'.
+[2023.11.08-22.28.47:556][  1]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=90
+[2023.11.08-22.28.47:556][  1]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 90
+[2023.11.08-22.28.47:559][  1]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.08-22.28.47:564][  1]LogWorld: Bringing World /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap up for play (max tick rate 0) at 2023.11.08-17.28.47
+[2023.11.08-22.28.47:564][  1]LogWorld: Bringing up level for play took: 0.005352
+[2023.11.08-22.28.47:566][  1]LogOnline: OSS: Created online subsystem instance for: :Context_165
+[2023.11.08-22.28.47:580][  1]PIE: Server logged in
+[2023.11.08-22.28.47:581][  1]PIE: Play in editor total start time 0.107 seconds.
+[2023.11.08-22.28.51:161][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-22.28.51:161][342]LogWorld: BeginTearingDown for /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-22.28.51:161][342]LogWorld: UWorld::CleanupWorld for Level2GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-22.28.51:162][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.28.51:176][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.08-22.28.51:180][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.28.51:195][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-22.28.51:195][342]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 90
+[2023.11.08-22.28.51:195][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90
+[2023.11.08-22.28.51:197][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90
+[2023.11.08-22.28.51:204][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.11.08-22.28.51:254][343]LogPlayLevel: Display: Destroying online subsystem :Context_165
+[2023.11.08-22.29.09:027][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.29.09:087][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.11.08-22.29.09:115][945]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.29.09:116][945]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapECE5B9A6439C0AB6B76BF1AD44B4DBF8.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.29.09:121][945]LogFileHelpers: Saving map 'Level2GDWMap' took 0.064
+[2023.11.08-22.29.09:127][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 39.7 sec)
+[2023.11.08-22.29.09:128][945]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.29.09:128][945]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.29.13:541][379]Cmd: TRANSACTION UNDO
+[2023.11.08-22.29.13:541][379]LogEditorTransaction: Undo Edit Attenuation Radius
+[2023.11.08-22.29.14:039][398]Cmd: TRANSACTION UNDO
+[2023.11.08-22.29.14:039][398]LogEditorTransaction: Undo Rotate Elements
+[2023.11.08-22.29.19:720][915]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.29.19:789][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.11.08-22.29.19:817][915]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.29.19:818][915]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap86DE37B1432B61D80ED59C8B4D6C881B.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.29.19:824][915]LogFileHelpers: Saving map 'Level2GDWMap' took 0.066
+[2023.11.08-22.29.19:830][915]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 39.9 sec)
+[2023.11.08-22.29.19:832][915]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.29.19:832][915]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.29.20:737][ 10]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.08-22.29.20:743][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.08-22.29.20:744][ 10]PIE: New page: PIE session: Level2GDWMap (Nov. 8, 2023, 12:29:20 p.m.)
+[2023.11.08-22.29.20:744][ 10]LogPlayLevel: Creating play world package: /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-22.29.20:751][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007380s)
+[2023.11.08-22.29.20:751][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap to /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap (0.007409s)
+[2023.11.08-22.29.20:765][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.11.08-22.29.20:767][ 10]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-22.29.20:767][ 10]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-22.29.20:767][ 10]LogAIModule: Creating AISystem for world Level2GDWMap
+[2023.11.08-22.29.20:768][ 10]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2023.11.08-22.29.20:768][ 10]LogAudio: Display: Creating Audio Device:                 Id: 91, Scope: Unique, Realtime: True
+[2023.11.08-22.29.20:768][ 10]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.08-22.29.20:768][ 10]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.08-22.29.20:768][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.08-22.29.20:768][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.08-22.29.20:768][ 10]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.08-22.29.20:768][ 10]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.08-22.29.20:768][ 10]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.08-22.29.20:768][ 10]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.08-22.29.20:768][ 10]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.08-22.29.20:768][ 10]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.08-22.29.20:768][ 10]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.08-22.29.20:770][ 10]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.08-22.29.20:795][ 10]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R19U)
+[2023.11.08-22.29.20:796][ 10]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.08-22.29.20:796][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.08-22.29.20:796][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.08-22.29.20:796][ 10]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=91
+[2023.11.08-22.29.20:796][ 10]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=91
+[2023.11.08-22.29.20:798][ 10]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=91
+[2023.11.08-22.29.20:798][ 10]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=91
+[2023.11.08-22.29.20:798][ 10]LogInit: FAudioDevice initialized with ID 91.
+[2023.11.08-22.29.20:798][ 10]LogAudio: Display: Audio Device (ID: 91) registered with world 'Level2GDWMap'.
+[2023.11.08-22.29.20:798][ 10]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 91
+[2023.11.08-22.29.20:801][ 10]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.08-22.29.20:806][ 10]LogWorld: Bringing World /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap up for play (max tick rate 0) at 2023.11.08-17.29.20
+[2023.11.08-22.29.20:806][ 10]LogWorld: Bringing up level for play took: 0.004927
+[2023.11.08-22.29.20:808][ 10]LogOnline: OSS: Created online subsystem instance for: :Context_166
+[2023.11.08-22.29.20:811][ 10]PIE: Server logged in
+[2023.11.08-22.29.20:811][ 10]PIE: Play in editor total start time 0.068 seconds.
+[2023.11.08-22.29.25:743][516]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_TeleportDart_C_0 via property TeleDart, but BP_TeleportDart_C_0 is not valid (pending kill or garbage)". Node:  Teleport Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2023.11.08-22.29.26:334][579]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_TeleportDart_C_0 via property TeleDart, but BP_TeleportDart_C_0 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2023.11.08-22.29.42:050][262]LogBlueprintUserMessages: [BP_Camera_C_1] Sees player
+[2023.11.08-22.29.44:561][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-22.29.44:561][525]LogWorld: BeginTearingDown for /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-22.29.44:562][525]LogWorld: UWorld::CleanupWorld for Level2GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-22.29.44:562][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.29.44:567][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.08-22.29.44:571][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.29.44:603][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-22.29.44:603][525]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 91
+[2023.11.08-22.29.44:603][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
+[2023.11.08-22.29.44:605][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
+[2023.11.08-22.29.44:613][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.08-22.29.44:729][526]LogPlayLevel: Display: Destroying online subsystem :Context_166
+[2023.11.08-22.29.46:386][653]LogSlate: Window 'Message Log' being destroyed
+[2023.11.08-22.29.46:400][653]LogSlate: Window 'Message Log' being destroyed
+[2023.11.08-22.29.51:964][159]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.29.52:027][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.08-22.29.52:056][159]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.29.52:056][159]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapA548AA564738A1A086830E829598906F.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.29.52:062][159]LogFileHelpers: Saving map 'Level2GDWMap' took 0.066
+[2023.11.08-22.29.52:068][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 40.0 sec)
+[2023.11.08-22.29.52:069][159]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.29.52:069][159]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.32.05:441][965]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser_C
+[2023.11.08-22.32.05:441][965]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser_C
+[2023.11.08-22.32.05:442][965]LogActorFactory: Actor Factory spawned Blueprint /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser as actor: BPP_BP_Laser_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BPP_BP_Laser_C_39
+[2023.11.08-22.32.05:443][965]LogActorFactory: Actor Factory spawned Blueprint /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser as actor: BPP_BP_Laser_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BPP_BP_Laser_C_39
+[2023.11.08-22.32.06:233][ 41]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser_C
+[2023.11.08-22.32.06:233][ 41]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser_C
+[2023.11.08-22.32.06:235][ 41]LogActorFactory: Actor Factory spawned Blueprint /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser as actor: BPP_BP_Laser_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BPP_BP_Laser_C_40
+[2023.11.08-22.32.06:237][ 41]LogActorFactory: Actor Factory spawned Blueprint /Game/Level1GDW/Level1Assets/LaserWall/BPP_BP_Laser.BPP_BP_Laser as actor: BPP_BP_Laser_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BPP_BP_Laser_C_40
+[2023.11.08-22.32.46:670][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.32.46:734][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.11.08-22.32.46:768][601]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.32.46:769][601]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap29398EE74B8D55749C4F239354C7AC40.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.32.46:775][601]LogFileHelpers: Saving map 'Level2GDWMap' took 0.073
+[2023.11.08-22.32.46:785][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 40.1 sec)
+[2023.11.08-22.32.46:787][601]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.32.46:787][601]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.33.20:859][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.33.20:935][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.11.08-22.33.20:976][655]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.33.20:976][655]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapD1E80D1D4CE83F69016A489B2EA75232.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.33.20:982][655]LogFileHelpers: Saving map 'Level2GDWMap' took 0.078
+[2023.11.08-22.33.20:992][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 40.2 sec)
+[2023.11.08-22.33.20:994][655]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.33.20:994][655]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.34.32:840][685]Cmd: TRANSACTION UNDO
+[2023.11.08-22.34.32:840][685]LogEditorTransaction: Undo Move Elements
+[2023.11.08-22.34.40:805][370]Cmd: TRANSACTION UNDO
+[2023.11.08-22.34.40:805][370]LogEditorTransaction: Undo Move Elements
+[2023.11.08-22.34.43:132][555]Cmd: TRANSACTION UNDO
+[2023.11.08-22.34.43:132][555]LogEditorTransaction: Undo Move Elements
+[2023.11.08-22.34.55:933][782]Cmd: TRANSACTION UNDO
+[2023.11.08-22.34.55:933][782]LogEditorTransaction: Undo Clicking on Elements
+[2023.11.08-22.35.09:088][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.35.09:151][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.11.08-22.35.09:192][968]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.35.09:193][968]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapDEA0B9474902CEC7A03637A642711505.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.35.09:199][968]LogFileHelpers: Saving map 'Level2GDWMap' took 0.079
+[2023.11.08-22.35.09:209][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 40.3 sec)
+[2023.11.08-22.35.09:211][968]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.35.09:211][968]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.35.13:998][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.35.14:057][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.11.08-22.35.14:093][430]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.35.14:094][430]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap19B950474E0F76C382F0E18429CBA6F9.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.35.14:099][430]LogFileHelpers: Saving map 'Level2GDWMap' took 0.072
+[2023.11.08-22.35.14:110][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 40.4 sec)
+[2023.11.08-22.35.14:112][430]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.35.14:112][430]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.35.30:577][ 87]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level1GDW/Level1Assets/Enemy/BP_Guard.BP_Guard_C
+[2023.11.08-22.35.30:577][ 87]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level1GDW/Level1Assets/Enemy/BP_Guard.BP_Guard_C
+[2023.11.08-22.35.30:579][ 87]LogActorFactory: Actor Factory spawned Blueprint /Game/Level1GDW/Level1Assets/Enemy/BP_Guard.BP_Guard as actor: BP_Guard_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BP_Guard_C_0
+[2023.11.08-22.35.30:580][ 87]LogActorFactory: Actor Factory spawned Blueprint /Game/Level1GDW/Level1Assets/Enemy/BP_Guard.BP_Guard as actor: BP_Guard_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BP_Guard_C_0
+[2023.11.08-22.35.31:880][211]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level1GDW/Level1Assets/Enemy/BP_Guard.BP_Guard_C
+[2023.11.08-22.35.31:880][211]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level1GDW/Level1Assets/Enemy/BP_Guard.BP_Guard_C
+[2023.11.08-22.35.31:883][211]LogActorFactory: Actor Factory spawned Blueprint /Game/Level1GDW/Level1Assets/Enemy/BP_Guard.BP_Guard as actor: BP_Guard_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BP_Guard_C_1
+[2023.11.08-22.35.31:884][211]LogActorFactory: Actor Factory spawned Blueprint /Game/Level1GDW/Level1Assets/Enemy/BP_Guard.BP_Guard as actor: BP_Guard_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BP_Guard_C_1
+[2023.11.08-22.35.44:443][411]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.35.44:523][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.11.08-22.35.44:565][411]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.35.44:566][411]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap193768DA43D0C1D087F4C7871CA7BC01.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.35.44:572][411]LogFileHelpers: Saving map 'Level2GDWMap' took 0.084
+[2023.11.08-22.35.44:579][411]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 40.6 sec)
+[2023.11.08-22.35.44:580][411]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.35.44:580][411]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.36.08:593][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.36.08:670][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.08-22.36.08:716][585]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.36.08:717][585]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapAAC07461444780D4256D83ACBD8803A0.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.36.08:723][585]LogFileHelpers: Saving map 'Level2GDWMap' took 0.086
+[2023.11.08-22.36.08:729][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 40.7 sec)
+[2023.11.08-22.36.08:730][585]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.36.08:730][585]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.36.12:657][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.36.12:728][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.11.08-22.36.12:766][905]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.36.12:766][905]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapD08255EE4FA99E7118094FB9821F5534.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.36.12:772][905]LogFileHelpers: Saving map 'Level2GDWMap' took 0.076
+[2023.11.08-22.36.12:778][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 40.8 sec)
+[2023.11.08-22.36.12:779][905]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.36.12:779][905]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.36.21:963][713]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2023.11.08-22.36.21:963][713]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2023.11.08-22.36.21:965][713]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.NavMeshBoundsVolume_0
+[2023.11.08-22.36.21:989][713]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.NavMeshBoundsVolume_0
+[2023.11.08-22.36.47:312][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.36.47:382][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.08-22.36.47:422][ 85]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.36.47:423][ 85]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap8789A15B43239DD3602A9FB35C67250B.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.36.47:429][ 85]LogFileHelpers: Saving map 'Level2GDWMap' took 0.080
+[2023.11.08-22.36.47:439][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 41.0 sec)
+[2023.11.08-22.36.47:441][ 85]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.36.47:441][ 85]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.37.23:320][490]Cmd: EDIT COPY
+[2023.11.08-22.37.53:155][481]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.37.53:215][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.11.08-22.37.53:263][481]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.37.53:264][481]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap654B92B14D599C42287C8EBF46A0D8CB.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.37.53:270][481]LogFileHelpers: Saving map 'Level2GDWMap' took 0.088
+[2023.11.08-22.37.53:280][481]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 41.1 sec)
+[2023.11.08-22.37.53:282][481]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.37.53:282][481]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.38.47:200][705]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.38.47:278][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.08-22.38.47:329][705]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.38.47:330][705]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap140E8C8C4CA11EDD2C02859823F0F577.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.38.47:336][705]LogFileHelpers: Saving map 'Level2GDWMap' took 0.093
+[2023.11.08-22.38.47:347][705]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 41.2 sec)
+[2023.11.08-22.38.47:349][705]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.38.47:349][705]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.38.57:788][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.38.57:856][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.11.08-22.38.57:897][671]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.38.57:898][671]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap5377175A4D38DFC99AEA4BAB9205EEA5.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.38.57:903][671]LogFileHelpers: Saving map 'Level2GDWMap' took 0.078
+[2023.11.08-22.38.57:914][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 41.4 sec)
+[2023.11.08-22.38.57:916][671]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.38.57:916][671]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.39.32:067][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.39.32:127][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.11.08-22.39.32:174][ 78]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.39.32:175][ 78]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapE11B840A46EF97634987E48EDC9545D6.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.39.32:181][ 78]LogFileHelpers: Saving map 'Level2GDWMap' took 0.087
+[2023.11.08-22.39.32:186][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 41.5 sec)
+[2023.11.08-22.39.32:188][ 78]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.39.32:188][ 78]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.39.44:506][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.39.44:558][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.11.08-22.39.44:600][432]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.39.44:600][432]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap6E78DF194AE5206D7404D9967EA81E5E.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.39.44:606][432]LogFileHelpers: Saving map 'Level2GDWMap' took 0.079
+[2023.11.08-22.39.44:612][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 41.6 sec)
+[2023.11.08-22.39.44:613][432]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.39.44:613][432]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.40.09:511][665]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.40.09:576][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.08-22.40.09:615][665]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.40.09:616][665]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap2ACEE805496CA58814F7BD81EB65D9FF.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.40.09:622][665]LogFileHelpers: Saving map 'Level2GDWMap' took 0.076
+[2023.11.08-22.40.09:628][665]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 41.7 sec)
+[2023.11.08-22.40.09:629][665]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.40.09:629][665]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.40.33:402][786]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.40.33:471][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.11.08-22.40.33:516][786]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.40.33:517][786]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap0FB3EE7A4C43412DD7AE62BE52690D09.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.40.33:523][786]LogFileHelpers: Saving map 'Level2GDWMap' took 0.083
+[2023.11.08-22.40.33:528][786]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 41.8 sec)
+[2023.11.08-22.40.33:530][786]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.40.33:530][786]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.40.41:596][534]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.40.41:676][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.11.08-22.40.41:715][534]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.40.41:716][534]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap5057C9BC4E8537ED7E1BA4B9D2A02F79.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.40.41:722][534]LogFileHelpers: Saving map 'Level2GDWMap' took 0.078
+[2023.11.08-22.40.41:729][534]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 42.0 sec)
+[2023.11.08-22.40.41:730][534]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.40.41:730][534]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.42.44:246][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.42.44:307][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.11.08-22.42.44:353][885]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.42.44:354][885]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapFFFACF8944E1B9BF5A67E8A236AF90A6.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.42.44:360][885]LogFileHelpers: Saving map 'Level2GDWMap' took 0.086
+[2023.11.08-22.42.44:372][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 42.1 sec)
+[2023.11.08-22.42.44:373][885]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.42.44:373][885]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.42.56:724][157]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.42.56:783][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.11.08-22.42.56:828][157]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.42.56:829][157]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap416C38B246C8CF17DE3E51A007464D2B.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.42.56:836][157]LogFileHelpers: Saving map 'Level2GDWMap' took 0.083
+[2023.11.08-22.42.56:848][157]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 42.2 sec)
+[2023.11.08-22.42.56:850][157]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.42.56:850][157]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.44.25:310][929]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.44.25:380][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.11.08-22.44.25:423][929]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.44.25:424][929]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapA39688A24B5B3E5614B2AE9646027364.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.44.25:429][929]LogFileHelpers: Saving map 'Level2GDWMap' took 0.079
+[2023.11.08-22.44.25:435][929]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 42.3 sec)
+[2023.11.08-22.44.25:436][929]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.44.25:436][929]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.44.41:488][612]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Level1GDW/Level1Assets/Triggers/BP_LoadLevel2.BP_LoadLevel2
+[2023.11.08-22.44.41:488][612]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-22.44.41:488][612]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-22.44.49:088][497]LogViewport: Scene viewport resized to 1141x666, mode Windowed.
+[2023.11.08-22.44.50:559][660]LogWorld: UWorld::CleanupWorld for World_117, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-22.44.50:559][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.45.40:105][999]LogSlate: Window 'New Level' being destroyed
+[2023.11.08-22.45.40:111][999]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.08-22.45.40:124][999]LightingResults: New page: Lighting Build
+[2023.11.08-22.45.40:128][999]LoadErrors: New page: Loading map: Template_Default.umap
+[2023.11.08-22.45.40:148][999]LogWorld: UWorld::CleanupWorld for Level2GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-22.45.40:148][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.45.40:148][999]MapCheck: New page: Map Check
+[2023.11.08-22.45.40:148][999]LightingResults: New page: Lighting Build
+[2023.11.08-22.45.40:200][999]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.08-22.45.40:217][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.11.08-22.45.40:229][999]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_3'.
+[2023.11.08-22.45.40:229][999]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-22.45.40:229][999]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-22.45.40:230][999]LogAIModule: Creating AISystem for world Untitled_3
+[2023.11.08-22.45.40:246][999]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.08-22.45.40:262][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.08-22.45.40:265][999]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.08-22.45.40:266][999]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2023.11.08-22.45.52:798][150]LogSlate: Window 'Save Level As' being destroyed
+[2023.11.08-22.45.52:872][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.11.08-22.45.52:883][150]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level3GDWMap
+[2023.11.08-22.45.52:883][150]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level3GDWMapC592A25447E64D1834027792CC581AD1.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level3GDWMap.umap'
+[2023.11.08-22.45.52:894][150]LogFileHelpers: Saving map 'Level3GDWMap' took 0.084
+[2023.11.08-22.45.52:894][150]Cmd: MAP LOAD FILE="../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level3GDWMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.08-22.45.52:894][150]LightingResults: New page: Lighting Build
+[2023.11.08-22.45.52:894][150]LoadErrors: New page: Loading map: Level3GDWMap.umap
+[2023.11.08-22.45.52:933][150]LogWorld: UWorld::CleanupWorld for Level3GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-22.45.52:933][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.45.52:933][150]MapCheck: New page: Map Check
+[2023.11.08-22.45.52:933][150]LightingResults: New page: Lighting Build
+[2023.11.08-22.45.52:946][150]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.08-22.45.52:948][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.11.08-22.45.52:955][150]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3GDWMap'.
+[2023.11.08-22.45.52:955][150]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-22.45.52:955][150]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-22.45.52:955][150]LogAIModule: Creating AISystem for world Level3GDWMap
+[2023.11.08-22.45.52:970][150]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.08-22.45.52:986][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.11.08-22.45.52:993][150]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.08-22.45.52:993][150]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.07ms to complete.
+[2023.11.08-22.45.52:994][150]AssetCheck: New page: Asset Save: Level3GDWMap
+[2023.11.08-22.45.52:994][150]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level3GDWMap.Level3GDWMap
+[2023.11.08-22.45.53:920][239]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.45.53:991][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.11.08-22.45.54:000][239]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level3GDWMap
+[2023.11.08-22.45.54:001][239]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level3GDWMap271AA6F04648A4319ECEB5BC1E9E5E48.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level3GDWMap.umap'
+[2023.11.08-22.45.54:007][239]LogFileHelpers: Saving map 'Level3GDWMap' took 0.045
+[2023.11.08-22.45.54:012][239]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 42.4 sec)
+[2023.11.08-22.45.54:013][239]AssetCheck: New page: Asset Save: Level3GDWMap
+[2023.11.08-22.45.54:013][239]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level3GDWMap.Level3GDWMap
+[2023.11.08-22.45.58:578][677]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.08-22.45.58:603][677]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.08-22.45.58:611][678]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.11.08-22.46.01:856][ 11]LogContentBrowser: Attempting asset rename: NewFolder -> Level2GDW
+[2023.11.08-22.46.01:856][ 11]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.08-22.46.06:687][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.11.08-22.46.06:692][478]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level1GDW/Levels/Level3GDWMap.Level3GDWMap
+[2023.11.08-22.46.06:692][478]Cmd: MAP LOAD FILE="../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level3GDWMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.08-22.46.06:692][478]LightingResults: New page: Lighting Build
+[2023.11.08-22.46.06:693][478]LoadErrors: New page: Loading map: Level3GDWMap.umap
+[2023.11.08-22.46.06:709][478]LogWorld: UWorld::CleanupWorld for Level3GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-22.46.06:709][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.46.06:710][478]MapCheck: New page: Map Check
+[2023.11.08-22.46.06:710][478]LightingResults: New page: Lighting Build
+[2023.11.08-22.46.06:722][478]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.08-22.46.06:725][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.11.08-22.46.06:731][478]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3GDWMap'.
+[2023.11.08-22.46.06:731][478]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-22.46.06:731][478]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-22.46.06:731][478]LogAIModule: Creating AISystem for world Level3GDWMap
+[2023.11.08-22.46.06:745][478]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.08-22.46.06:760][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.11.08-22.46.06:766][478]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.08-22.46.06:766][478]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.068ms to complete.
+[2023.11.08-22.46.07:256][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.11.08-22.46.07:297][524]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-22.46.07:317][524]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.46.07:317][524]Cmd: MAP LOAD FILE="../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.08-22.46.07:317][524]LightingResults: New page: Lighting Build
+[2023.11.08-22.46.07:317][524]LoadErrors: New page: Loading map: Level2GDWMap.umap
+[2023.11.08-22.46.07:332][524]LogWorld: UWorld::CleanupWorld for Level3GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-22.46.07:332][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.46.07:333][524]MapCheck: New page: Map Check
+[2023.11.08-22.46.07:333][524]LightingResults: New page: Lighting Build
+[2023.11.08-22.46.07:347][524]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.08-22.46.07:349][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.08-22.46.07:352][524]LogWorld: UWorld::CleanupWorld for Level2GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-22.46.07:352][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.46.07:367][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.11.08-22.46.07:381][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.08-22.46.07:394][524]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2GDWMap'.
+[2023.11.08-22.46.07:394][524]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-22.46.07:394][524]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-22.46.07:394][524]LogAIModule: Creating AISystem for world Level2GDWMap
+[2023.11.08-22.46.07:434][524]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.08-22.46.07:452][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.11.08-22.46.07:459][524]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.08-22.46.07:459][524]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.067ms to complete.
+[2023.11.08-22.46.23:450][799]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.11.08-22.46.23:476][799]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.11.08-22.46.23:482][799]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.11.08-22.46.23:504][801]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.11.08-22.46.28:897][339]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_LOAD3
+[2023.11.08-22.46.28:999][339]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.11.08-22.46.29:980][433]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level2GDW/BP_LOAD3.BP_LOAD3_C
+[2023.11.08-22.46.29:980][433]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level2GDW/BP_LOAD3.BP_LOAD3_C
+[2023.11.08-22.46.29:981][433]LogActorFactory: Actor Factory spawned Blueprint /Game/Level2GDW/BP_LOAD3.BP_LOAD3 as actor: BP_LOAD3_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BP_LOAD3_C_0
+[2023.11.08-22.46.29:981][433]LogActorFactory: Actor Factory spawned Blueprint /Game/Level2GDW/BP_LOAD3.BP_LOAD3 as actor: BP_LOAD3_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BP_LOAD3_C_0
+[2023.11.08-22.46.30:948][513]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level2GDW/BP_LOAD3.BP_LOAD3_C
+[2023.11.08-22.46.30:948][513]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Level2GDW/BP_LOAD3.BP_LOAD3_C
+[2023.11.08-22.46.30:949][513]LogActorFactory: Actor Factory spawned Blueprint /Game/Level2GDW/BP_LOAD3.BP_LOAD3 as actor: BP_LOAD3_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BP_LOAD3_C_1
+[2023.11.08-22.46.30:950][513]LogActorFactory: Actor Factory spawned Blueprint /Game/Level2GDW/BP_LOAD3.BP_LOAD3 as actor: BP_LOAD3_C /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap:PersistentLevel.BP_LOAD3_C_1
+[2023.11.08-22.46.33:857][790]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.46.33:928][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.11.08-22.46.33:972][790]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.46.33:972][790]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapA23A5AD646FFD77CE826A8980CEF884E.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.46.33:978][790]LogFileHelpers: Saving map 'Level2GDWMap' took 0.083
+[2023.11.08-22.46.33:985][790]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 42.5 sec)
+[2023.11.08-22.46.33:986][790]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.46.33:986][790]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.46.34:196][812]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Level2GDW/BP_LOAD3.BP_LOAD3
+[2023.11.08-22.46.34:196][812]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-22.46.34:197][812]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-22.46.34:385][812]LogViewport: Scene viewport resized to 988x566, mode Windowed.
+[2023.11.08-22.46.41:959][453]LogSlate: Window 'BP_LOAD3' being destroyed
+[2023.11.08-22.46.43:441][627]LogWorld: UWorld::CleanupWorld for World_116, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-22.46.43:441][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.46.44:658][768]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.46.44:691][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2GDW/BP_LOAD3" FILE="../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level2GDW/BP_LOAD3.uasset" SILENT=true
+[2023.11.08-22.46.44:693][768]LogSavePackage: Moving output files for package: /Game/Level2GDW/BP_LOAD3
+[2023.11.08-22.46.44:693][768]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/BP_LOAD3F623764148359F43E7C916A5B2A0158B.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level2GDW/BP_LOAD3.uasset'
+[2023.11.08-22.46.44:700][768]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 42.6 sec)
+[2023.11.08-22.46.44:701][768]AssetCheck: New page: Asset Save: BP_LOAD3
+[2023.11.08-22.46.44:701][768]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Level2GDW/BP_LOAD3.BP_LOAD3
+[2023.11.08-22.46.46:237][944]LogViewport: Scene viewport resized to 1141x666, mode Windowed.
+[2023.11.08-22.46.54:957][934]BlueprintLog: New page: Compile BP_LOAD3
+[2023.11.08-22.46.54:987][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.11.08-22.46.55:329][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.46.55:360][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2GDW/BP_LOAD3" FILE="../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level2GDW/BP_LOAD3.uasset" SILENT=true
+[2023.11.08-22.46.55:362][960]LogSavePackage: Moving output files for package: /Game/Level2GDW/BP_LOAD3
+[2023.11.08-22.46.55:363][960]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/BP_LOAD3212326604FF9EF7E9E25F2BCA56600B1.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level2GDW/BP_LOAD3.uasset'
+[2023.11.08-22.46.55:368][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 42.6 sec)
+[2023.11.08-22.46.55:369][960]AssetCheck: New page: Asset Save: BP_LOAD3
+[2023.11.08-22.46.55:369][960]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Level2GDW/BP_LOAD3.BP_LOAD3
+[2023.11.08-22.47.08:061][105]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.47.08:139][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.08-22.47.08:189][105]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.47.08:190][105]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapCA7A034947C6EB8FEC9226B3A6D09615.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.47.08:195][105]LogFileHelpers: Saving map 'Level2GDWMap' took 0.091
+[2023.11.08-22.47.08:201][105]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 42.8 sec)
+[2023.11.08-22.47.08:203][105]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.47.08:203][105]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.47.12:299][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.47.12:366][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.11.08-22.47.12:405][486]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.47.12:406][486]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap1AF282024BE19BFE029C71895B680407.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.47.12:412][486]LogFileHelpers: Saving map 'Level2GDWMap' took 0.076
+[2023.11.08-22.47.12:418][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 42.9 sec)
+[2023.11.08-22.47.12:419][486]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.47.12:419][486]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.47.40:975][525]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Level1GDW/Level1Assets/Triggers/BP_LoadLevel2.BP_LoadLevel2
+[2023.11.08-22.47.40:975][525]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-22.47.40:975][525]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-22.47.54:299][ 62]LogWorld: UWorld::CleanupWorld for World_119, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-22.47.54:300][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.48.04:536][234]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.48.04:561][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2GDW/BP_LOAD3" FILE="../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level2GDW/BP_LOAD3.uasset" SILENT=true
+[2023.11.08-22.48.04:564][234]LogSavePackage: Moving output files for package: /Game/Level2GDW/BP_LOAD3
+[2023.11.08-22.48.04:565][234]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/BP_LOAD3E6170761437E68A66B1C46BD82BC3944.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level2GDW/BP_LOAD3.uasset'
+[2023.11.08-22.48.04:570][234]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 42.9 sec)
+[2023.11.08-22.48.04:572][234]AssetCheck: New page: Asset Save: BP_LOAD3
+[2023.11.08-22.48.04:572][234]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Level2GDW/BP_LOAD3.BP_LOAD3
+[2023.11.08-22.48.24:956][217]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2023.11.08-22.48.24:956][217]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2023.11.08-22.48.27:302][394]Cmd: TRANSACTION UNDO
+[2023.11.08-22.48.27:302][394]LogEditorTransaction: Undo Create Actor
+[2023.11.08-22.48.33:993][973]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.48.34:054][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.11.08-22.48.34:096][973]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.48.34:097][973]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap94CA780744567F2F7CF3078C7F2F0B02.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.48.34:102][973]LogFileHelpers: Saving map 'Level2GDWMap' took 0.082
+[2023.11.08-22.48.34:108][973]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 43.0 sec)
+[2023.11.08-22.48.34:110][973]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.48.34:110][973]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.48.39:546][436]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.11.08-22.48.39:546][436]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.11.08-22.48.55:948][  9]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.08-22.49.25:081][740]Cmd: TRANSACTION UNDO
+[2023.11.08-22.49.25:081][740]LogEditorTransaction: Undo Move Elements
+[2023.11.08-22.49.59:921][853]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.49.59:992][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.11.08-22.50.00:043][853]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.50.00:044][853]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap670B1C464A27A41A14BCCABE39A13113.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.50.00:049][853]LogFileHelpers: Saving map 'Level2GDWMap' took 0.089
+[2023.11.08-22.50.00:059][853]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 43.2 sec)
+[2023.11.08-22.50.00:061][853]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.50.00:061][853]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.50.32:637][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.50.32:705][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.11.08-22.50.32:751][997]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.50.32:752][997]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap46345BB94AE07947CC8C8DBFDE0629E9.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.50.32:758][997]LogFileHelpers: Saving map 'Level2GDWMap' took 0.085
+[2023.11.08-22.50.32:763][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 43.3 sec)
+[2023.11.08-22.50.32:765][997]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.50.32:765][997]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.51.11:881][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.51.11:955][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.11.08-22.51.12:002][825]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.51.12:003][825]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap8382D95A4AAE36896A979C88340B8412.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.51.12:009][825]LogFileHelpers: Saving map 'Level2GDWMap' took 0.084
+[2023.11.08-22.51.12:015][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 43.4 sec)
+[2023.11.08-22.51.12:017][825]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.51.12:017][825]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.51.22:866][869]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.51.22:925][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.11.08-22.51.22:968][869]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.51.22:969][869]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap85A6C92E4A17C29432EB9AA025382688.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.51.22:975][869]LogFileHelpers: Saving map 'Level2GDWMap' took 0.081
+[2023.11.08-22.51.22:986][869]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 43.6 sec)
+[2023.11.08-22.51.22:987][869]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.51.22:987][869]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.51.24:033][966]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.08-22.51.24:040][966]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.08-22.51.24:041][966]LogPlayLevel: [PlayLevel] Compiling BP_LOAD3 before play...
+[2023.11.08-22.51.24:058][966]LogBlueprint: Error: [AssetLog] D:\GDWbaseRepo\GDWbaseRepo\FPS_gdw\Content\Level2GDW\BP_LOAD3.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_FirstPersonCharacter  to imply a specific type.
+[2023.11.08-22.51.24:058][966]LogBlueprint: Error: [AssetLog] D:\GDWbaseRepo\GDWbaseRepo\FPS_gdw\Content\Level2GDW\BP_LOAD3.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2023.11.08-22.51.24:089][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.11.08-22.51.24:093][966]LogPlayLevel: PlayLevel: Blueprint regeneration took 52 ms (1 blueprints)
+[2023.11.08-22.51.24:093][966]BlueprintLog: Warning: Blueprint failed to compile:  BP_LOAD3
+[2023.11.08-22.51.25:561][966]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.11.08-22.51.27:008][131]LogSlate: Window 'Message Log' being destroyed
+[2023.11.08-22.51.27:016][131]LogSlate: Window 'Message Log' being destroyed
+[2023.11.08-22.51.32:949][830]BlueprintLog: New page: Compile BP_LOAD3
+[2023.11.08-22.51.32:975][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.08-22.51.33:548][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.51.33:579][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2GDW/BP_LOAD3" FILE="../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level2GDW/BP_LOAD3.uasset" SILENT=true
+[2023.11.08-22.51.33:583][895]LogSavePackage: Moving output files for package: /Game/Level2GDW/BP_LOAD3
+[2023.11.08-22.51.33:584][895]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/BP_LOAD345F67B0D4C097A00C1233EA0F45B7554.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level2GDW/BP_LOAD3.uasset'
+[2023.11.08-22.51.33:590][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 43.6 sec)
+[2023.11.08-22.51.33:591][895]AssetCheck: New page: Asset Save: BP_LOAD3
+[2023.11.08-22.51.33:591][895]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Level2GDW/BP_LOAD3.BP_LOAD3
+[2023.11.08-22.51.34:557][990]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.08-22.51.34:564][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.08-22.51.34:564][990]PIE: New page: PIE session: Level2GDWMap (Nov. 8, 2023, 12:51:34 p.m.)
+[2023.11.08-22.51.34:564][990]LogPlayLevel: Creating play world package: /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-22.51.34:575][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011348s)
+[2023.11.08-22.51.34:575][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap to /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap (0.011382s)
+[2023.11.08-22.51.34:589][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.11.08-22.51.34:593][990]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-22.51.34:593][990]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-22.51.34:593][990]LogAIModule: Creating AISystem for world Level2GDWMap
+[2023.11.08-22.51.34:594][990]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2023.11.08-22.51.34:594][990]LogAudio: Display: Creating Audio Device:                 Id: 92, Scope: Unique, Realtime: True
+[2023.11.08-22.51.34:594][990]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.08-22.51.34:594][990]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.08-22.51.34:594][990]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.08-22.51.34:594][990]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.08-22.51.34:594][990]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.08-22.51.34:594][990]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.08-22.51.34:594][990]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.08-22.51.34:594][990]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.08-22.51.34:594][990]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.08-22.51.34:594][990]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.08-22.51.34:594][990]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.08-22.51.34:596][990]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.08-22.51.34:621][990]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R19U)
+[2023.11.08-22.51.34:621][990]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.08-22.51.34:621][990]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.08-22.51.34:622][990]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.08-22.51.34:622][990]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=92
+[2023.11.08-22.51.34:622][990]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=92
+[2023.11.08-22.51.34:624][990]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=92
+[2023.11.08-22.51.34:624][990]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=92
+[2023.11.08-22.51.34:624][990]LogInit: FAudioDevice initialized with ID 92.
+[2023.11.08-22.51.34:624][990]LogAudio: Display: Audio Device (ID: 92) registered with world 'Level2GDWMap'.
+[2023.11.08-22.51.34:624][990]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 92
+[2023.11.08-22.51.34:627][990]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.08-22.51.34:633][990]LogWorld: Bringing World /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap up for play (max tick rate 0) at 2023.11.08-17.51.34
+[2023.11.08-22.51.34:634][990]LogWorld: Bringing up level for play took: 0.006868
+[2023.11.08-22.51.34:636][990]LogOnline: OSS: Created online subsystem instance for: :Context_170
+[2023.11.08-22.51.34:639][990]PIE: Server logged in
+[2023.11.08-22.51.34:640][990]PIE: Play in editor total start time 0.077 seconds.
+[2023.11.08-22.51.56:608][278]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_TeleportDart_C_6 via property TeleDart, but BP_TeleportDart_C_6 is not valid (pending kill or garbage)". Node:  Teleport Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2023.11.08-22.51.57:198][340]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_TeleportDart_C_6 via property TeleDart, but BP_TeleportDart_C_6 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2023.11.08-22.51.59:763][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-22.51.59:763][609]LogWorld: BeginTearingDown for /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-22.51.59:763][609]LogWorld: UWorld::CleanupWorld for Level2GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-22.51.59:764][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.51.59:774][609]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.08-22.51.59:778][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.51.59:792][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-22.51.59:792][609]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 92
+[2023.11.08-22.51.59:792][609]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=92
+[2023.11.08-22.51.59:794][609]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=92
+[2023.11.08-22.51.59:802][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.08-22.51.59:918][610]LogPlayLevel: Display: Destroying online subsystem :Context_170
+[2023.11.08-22.52.01:847][754]LogSlate: Window 'Message Log' being destroyed
+[2023.11.08-22.52.01:861][754]LogSlate: Window 'Message Log' being destroyed
+[2023.11.08-22.52.02:370][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.52.02:437][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.11.08-22.52.02:478][796]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.52.02:479][796]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMap1C33DDC44FC5B406E4182CA65F9DF9A9.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.52.02:485][796]LogFileHelpers: Saving map 'Level2GDWMap' took 0.078
+[2023.11.08-22.52.02:496][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 43.7 sec)
+[2023.11.08-22.52.02:497][796]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.52.02:497][796]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.52.19:169][308]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.52.19:221][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.11.08-22.52.19:260][308]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.52.19:261][308]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapE63699AA42E8B617F4AF40A062BA73C9.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.52.19:266][308]LogFileHelpers: Saving map 'Level2GDWMap' took 0.075
+[2023.11.08-22.52.19:277][308]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 43.8 sec)
+[2023.11.08-22.52.19:279][308]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.52.19:279][308]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.54.49:986][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.54.50:060][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.11.08-22.54.50:102][ 12]LogSavePackage: Moving output files for package: /Game/Level1GDW/Levels/Level2GDWMap
+[2023.11.08-22.54.50:103][ 12]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Level2GDWMapB801B209499A769E250847AA7AA2C156.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level2GDWMap.umap'
+[2023.11.08-22.54.50:109][ 12]LogFileHelpers: Saving map 'Level2GDWMap' took 0.081
+[2023.11.08-22.54.50:114][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 44.0 sec)
+[2023.11.08-22.54.50:115][ 12]AssetCheck: New page: Asset Save: Level2GDWMap
+[2023.11.08-22.54.50:115][ 12]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap
+[2023.11.08-22.54.53:758][360]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Level1GDW/Level1Assets/Crosshairs/Crosshair.Crosshair
+[2023.11.08-22.54.53:759][360]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-22.54.53:759][360]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-22.54.53:770][360]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-22.54.53:770][360]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-22.54.59:625][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.54.59:652][ 44]LogSavePackage: Moving output files for package: /Game/Level1GDW/Level1Assets/Crosshairs/Crosshair
+[2023.11.08-22.54.59:653][ 44]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/Crosshair9271340349F7904A5D6004AFF4451CEB.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Level1Assets/Crosshairs/Crosshair.uasset'
+[2023.11.08-22.54.59:659][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 44.0 sec)
+[2023.11.08-22.54.59:660][ 44]AssetCheck: New page: Asset Save: Crosshair
+[2023.11.08-22.54.59:660][ 44]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Level1GDW/Level1Assets/Crosshairs/Crosshair.Crosshair
+[2023.11.08-22.55.03:927][372]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.08-22.55.03:927][372]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-22.55.03:928][372]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-22.55.24:088][500]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.08-22.55.24:160][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.11.08-22.55.24:603][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.08-22.55.24:747][520]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.11.08-22.55.24:748][520]LogSavePackage: Moving '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Saved/BP_FirstPersonCharacterD3A41B8942B10BAF8EF055A67053F41B.tmp' to '../../../../../GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.11.08-22.55.24:755][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 44.1 sec)
+[2023.11.08-22.55.24:757][520]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.11.08-22.55.24:757][520]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.08-22.55.25:813][623]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.08-22.55.25:819][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.08-22.55.25:819][623]PIE: New page: PIE session: Level2GDWMap (Nov. 8, 2023, 12:55:25 p.m.)
+[2023.11.08-22.55.25:819][623]LogPlayLevel: Creating play world package: /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-22.55.25:830][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010930s)
+[2023.11.08-22.55.25:830][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1GDW/Levels/Level2GDWMap.Level2GDWMap to /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap (0.010963s)
+[2023.11.08-22.55.25:849][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.11.08-22.55.25:855][623]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.08-22.55.25:855][623]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.08-22.55.25:855][623]LogAIModule: Creating AISystem for world Level2GDWMap
+[2023.11.08-22.55.25:855][623]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2023.11.08-22.55.25:855][623]LogAudio: Display: Creating Audio Device:                 Id: 93, Scope: Unique, Realtime: True
+[2023.11.08-22.55.25:856][623]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.08-22.55.25:856][623]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.08-22.55.25:856][623]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.08-22.55.25:856][623]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.08-22.55.25:856][623]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.08-22.55.25:856][623]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.08-22.55.25:856][623]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.08-22.55.25:856][623]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.08-22.55.25:856][623]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.08-22.55.25:856][623]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.08-22.55.25:856][623]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.08-22.55.25:858][623]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.08-22.55.25:883][623]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R19U)
+[2023.11.08-22.55.25:883][623]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.08-22.55.25:883][623]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.08-22.55.25:883][623]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.08-22.55.25:885][623]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=93
+[2023.11.08-22.55.25:885][623]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=93
+[2023.11.08-22.55.25:886][623]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=93
+[2023.11.08-22.55.25:886][623]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=93
+[2023.11.08-22.55.25:886][623]LogInit: FAudioDevice initialized with ID 93.
+[2023.11.08-22.55.25:886][623]LogAudio: Display: Audio Device (ID: 93) registered with world 'Level2GDWMap'.
+[2023.11.08-22.55.25:886][623]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 93
+[2023.11.08-22.55.25:888][623]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.08-22.55.25:895][623]LogWorld: Bringing World /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap.Level2GDWMap up for play (max tick rate 0) at 2023.11.08-17.55.25
+[2023.11.08-22.55.25:895][623]LogWorld: Bringing up level for play took: 0.006682
+[2023.11.08-22.55.25:897][623]LogOnline: OSS: Created online subsystem instance for: :Context_174
+[2023.11.08-22.55.25:901][623]PIE: Server logged in
+[2023.11.08-22.55.25:902][623]PIE: Play in editor total start time 0.083 seconds.
+[2023.11.08-22.55.28:270][852]Cmd: LevelEditor.ToggleImmersive
+[2023.11.08-22.55.28:293][852]LogViewport: Scene viewport resized to 1690x798, mode Windowed.
+[2023.11.08-22.55.28:326][853]LogViewport: Scene viewport resized to 1833x949, mode Windowed.
+[2023.11.08-22.55.28:375][854]LogViewport: Scene viewport resized to 1912x1031, mode Windowed.
+[2023.11.08-22.55.28:432][855]LogViewport: Scene viewport resized to 1920x1040, mode Windowed.
+[2023.11.08-22.55.33:593][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-22.55.33:593][329]LogWorld: BeginTearingDown for /Game/Level1GDW/Levels/UEDPIE_0_Level2GDWMap
+[2023.11.08-22.55.33:594][329]LogWorld: UWorld::CleanupWorld for Level2GDWMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.08-22.55.33:595][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.55.33:603][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.08-22.55.33:608][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.08-22.55.33:622][329]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.08-22.55.33:623][329]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 93
+[2023.11.08-22.55.33:623][329]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=93
+[2023.11.08-22.55.33:624][329]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=93
+[2023.11.08-22.55.33:628][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.08-22.55.33:633][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.11.08-22.55.33:659][330]LogPlayLevel: Display: Destroying online subsystem :Context_174
+[2023.11.08-22.55.34:954][437]LogViewport: Scene viewport resized to 1771x884, mode Windowed.
+[2023.11.08-22.55.34:983][438]LogViewport: Scene viewport resized to 1638x743, mode Windowed.
+[2023.11.08-22.55.35:084][439]LogViewport: Scene viewport resized to 1527x627, mode Windowed.
+[2023.11.08-22.55.35:157][440]LogViewport: Scene viewport resized to 1526x625, mode Windowed.
+[2023.11.08-22.55.57:486][ 45]LogEditorTransaction: Undo Edit X
