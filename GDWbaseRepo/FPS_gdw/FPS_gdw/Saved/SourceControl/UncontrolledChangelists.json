@@ -7,9 +7,12 @@
 			"files": [
 				"D:/ZZFOrtnigte/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
 				"D:/GDWbaseRepo/GDWbaseRepo/FPS_gdw/FPS_gdw/Content/Level1GDW/Levels/Level1GDWMap.umap",
+<<<<<<< Updated upstream
 				"D:/GDWbaseRepo/GDWbaseRepo/FPS_gdw/FPS_gdw/Content/Level1GDW/DeadWidgets/DeadLaser_WD.uasset",
 				"D:/GDWbaseRepo/GDWbaseRepo/FPS_gdw/FPS_gdw/Content/Level1GDW/DeadWidgets/DeadGuard_WD.uasset",
 				"D:/GDWbaseRepo/GDWbaseRepo/FPS_gdw/FPS_gdw/Content/Level1GDW/DeadWidgets/DeadCamera_WD.uasset",
+=======
+>>>>>>> Stashed changes
 				"D:/GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Level1GDWMap.umap",
 				"D:/GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Level1Assets/Triggers/BP_LoadLevel2.uasset",
 				"D:/GDWbaseRepo/GDWbaseRepo/FPS_gdw/Content/Level1GDW/Levels/Level1GDWMap.umap",
